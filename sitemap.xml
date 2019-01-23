@@ -3,79 +3,79 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://investastuces.github.io/post/test-bourse/</loc>
+    <loc>/post/test-bourse/</loc>
     <lastmod>2019-01-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://investastuces.github.io/post/test-immobilier/</loc>
+    <loc>/post/test-immobilier/</loc>
     <lastmod>2019-01-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://investastuces.github.io/post/test-placements-perso/</loc>
+    <loc>/post/test-placements-perso/</loc>
     <lastmod>2019-01-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://investastuces.github.io/post/test-simulateur/</loc>
+    <loc>/post/test-simulateur/</loc>
     <lastmod>2019-01-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://investastuces.github.io/about/</loc>
+    <loc>/about/</loc>
     <lastmod>2019-01-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://investastuces.github.io/glossaire/</loc>
+    <loc>/glossaire/</loc>
     <lastmod>2019-01-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://investastuces.github.io/categories/bourse/</loc>
-    <lastmod>2019-01-22T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://investastuces.github.io/categories/</loc>
+    <loc>/categories/bourse/</loc>
     <lastmod>2019-01-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://investastuces.github.io/categories/immobilier/</loc>
+    <loc>/categories/</loc>
     <lastmod>2019-01-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://investastuces.github.io/</loc>
+    <loc>/categories/immobilier/</loc>
     <lastmod>2019-01-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://investastuces.github.io/categories/placements/</loc>
+    <loc>/</loc>
     <lastmod>2019-01-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://investastuces.github.io/post/</loc>
+    <loc>/categories/placements/</loc>
     <lastmod>2019-01-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://investastuces.github.io/categories/simulateur/</loc>
+    <loc>/post/</loc>
     <lastmod>2019-01-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://investastuces.github.io/tags/</loc>
+    <loc>/categories/simulateur/</loc>
+    <lastmod>2019-01-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
     <priority>0</priority>
   </url>
   

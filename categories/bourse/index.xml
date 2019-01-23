@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bourse on Invest A$tuc€s</title>
-    <link>https://investastuces.github.io/categories/bourse/</link>
+    <link>/categories/bourse/</link>
     <description>Recent content in Bourse on Invest A$tuc€s</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-fr</language>
     <lastBuildDate>Tue, 22 Jan 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://investastuces.github.io/categories/bourse/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/bourse/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>A first article for the bourse</title>
-      <link>https://investastuces.github.io/post/test-bourse/</link>
+      <link>/post/test-bourse/</link>
       <pubDate>Tue, 22 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://investastuces.github.io/post/test-bourse/</guid>
+      <guid>/post/test-bourse/</guid>
       <description>&lt;p&gt;blah blah blah&lt;/p&gt;</description>
     </item>
     

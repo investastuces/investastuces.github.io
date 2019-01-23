@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Invest A$tuc€s</title>
-    <link>https://investastuces.github.io/categories/</link>
+    <link>/categories/</link>
     <description>Recent content in Categories on Invest A$tuc€s</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-fr</language>
     <lastBuildDate>Tue, 22 Jan 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://investastuces.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Bourse</title>
-      <link>https://investastuces.github.io/categories/bourse/</link>
+      <link>/categories/bourse/</link>
       <pubDate>Tue, 22 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://investastuces.github.io/categories/bourse/</guid>
+      <guid>/categories/bourse/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Immobilier</title>
-      <link>https://investastuces.github.io/categories/immobilier/</link>
+      <link>/categories/immobilier/</link>
       <pubDate>Tue, 22 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://investastuces.github.io/categories/immobilier/</guid>
+      <guid>/categories/immobilier/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Placements</title>
-      <link>https://investastuces.github.io/categories/placements/</link>
+      <link>/categories/placements/</link>
       <pubDate>Tue, 22 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://investastuces.github.io/categories/placements/</guid>
+      <guid>/categories/placements/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Simulateur</title>
-      <link>https://investastuces.github.io/categories/simulateur/</link>
+      <link>/categories/simulateur/</link>
       <pubDate>Tue, 22 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://investastuces.github.io/categories/simulateur/</guid>
+      <guid>/categories/simulateur/</guid>
       <description></description>
     </item>
     

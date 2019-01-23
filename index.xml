@@ -2,66 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Invest A$tuc€s</title>
-    <link>https://investastuces.github.io/</link>
+    <link>/</link>
     <description>Recent content on Invest A$tuc€s</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-fr</language>
     <lastBuildDate>Tue, 22 Jan 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://investastuces.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>A first article for the bourse</title>
-      <link>https://investastuces.github.io/post/test-bourse/</link>
+      <link>/post/test-bourse/</link>
       <pubDate>Tue, 22 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://investastuces.github.io/post/test-bourse/</guid>
+      <guid>/post/test-bourse/</guid>
       <description>&lt;p&gt;blah blah blah&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>A first article for the immobilier</title>
-      <link>https://investastuces.github.io/post/test-immobilier/</link>
+      <link>/post/test-immobilier/</link>
       <pubDate>Tue, 22 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://investastuces.github.io/post/test-immobilier/</guid>
+      <guid>/post/test-immobilier/</guid>
       <description>&lt;p&gt;blah blah blah&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>A first article for the placements perso</title>
-      <link>https://investastuces.github.io/post/test-placements-perso/</link>
+      <link>/post/test-placements-perso/</link>
       <pubDate>Tue, 22 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://investastuces.github.io/post/test-placements-perso/</guid>
+      <guid>/post/test-placements-perso/</guid>
       <description>&lt;p&gt;blah blah blah&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>A first article for the simulateur</title>
-      <link>https://investastuces.github.io/post/test-simulateur/</link>
+      <link>/post/test-simulateur/</link>
       <pubDate>Tue, 22 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://investastuces.github.io/post/test-simulateur/</guid>
+      <guid>/post/test-simulateur/</guid>
       <description>&lt;p&gt;blah blah blah&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>A propos</title>
-      <link>https://investastuces.github.io/about/</link>
+      <link>/about/</link>
       <pubDate>Tue, 22 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://investastuces.github.io/about/</guid>
+      <guid>/about/</guid>
       <description>Qui suis-je? Blah blah blah, description du blog et de Greg</description>
     </item>
     
     <item>
       <title>Glossaire</title>
-      <link>https://investastuces.github.io/glossaire/</link>
+      <link>/glossaire/</link>
       <pubDate>Tue, 22 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://investastuces.github.io/glossaire/</guid>
+      <guid>/glossaire/</guid>
       <description> A
  B
  C
