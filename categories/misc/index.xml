@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Misc on Invest A$tuc€s</title>
+    <link>/categories/misc/</link>
+    <description>Recent content in Misc on Invest A$tuc€s</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-fr</language>
+    <lastBuildDate>Tue, 22 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/misc/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Glossaire</title>
+      <link>/post/glossaire/</link>
+      <pubDate>Tue, 22 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/glossaire/</guid>
+      <description>A
+B
+C
+D</description>
+    </item>
+    
+  </channel>
+</rss>

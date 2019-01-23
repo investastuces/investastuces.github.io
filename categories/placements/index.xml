@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Placements on Invest A$tuc€s</title>
+    <link>https://investastuces.github.io/categories/placements/</link>
+    <description>Recent content in Placements on Invest A$tuc€s</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-fr</language>
+    <lastBuildDate>Tue, 22 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://investastuces.github.io/categories/placements/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A first article for the placements perso</title>
+      <link>https://investastuces.github.io/post/test-placements-perso/</link>
+      <pubDate>Tue, 22 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://investastuces.github.io/post/test-placements-perso/</guid>
+      <description>&lt;p&gt;blah blah blah&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

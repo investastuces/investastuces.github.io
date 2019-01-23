@@ -1,39 +1,49 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Invest&#39; Astuces</title>
-    <link>/categories/</link>
-    <description>Recent content in Categories on Invest&#39; Astuces</description>
+    <title>Categories on Invest A$tuc€s</title>
+    <link>https://investastuces.github.io/categories/</link>
+    <description>Recent content in Categories on Invest A$tuc€s</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-fr</language>
+    <lastBuildDate>Tue, 22 Jan 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://investastuces.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Development</title>
-      <link>/categories/development/</link>
-      <pubDate>Mon, 16 Apr 2018 00:00:00 +0000</pubDate>
+      <title>Bourse</title>
+      <link>https://investastuces.github.io/categories/bourse/</link>
+      <pubDate>Tue, 22 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>/categories/development/</guid>
+      <guid>https://investastuces.github.io/categories/bourse/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Golang</title>
-      <link>/categories/golang/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <title>Immobilier</title>
+      <link>https://investastuces.github.io/categories/immobilier/</link>
+      <pubDate>Tue, 22 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>/categories/golang/</guid>
+      <guid>https://investastuces.github.io/categories/immobilier/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>R</title>
-      <link>/categories/r/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      <title>Placements</title>
+      <link>https://investastuces.github.io/categories/placements/</link>
+      <pubDate>Tue, 22 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>/categories/r/</guid>
+      <guid>https://investastuces.github.io/categories/placements/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simulateur</title>
+      <link>https://investastuces.github.io/categories/simulateur/</link>
+      <pubDate>Tue, 22 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://investastuces.github.io/categories/simulateur/</guid>
       <description></description>
     </item>
     
