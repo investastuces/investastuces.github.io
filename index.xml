@@ -104,10 +104,20 @@ Follow the following steps:</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/glossaire/</guid>
-      <description>Glossaire de mots utilis&amp;eacute;s dans le site
- A
- B
- C
+      <description> Glossaire de mots utilis&amp;eacute;s dans le site
+A B C D A   A1  Blah blah blah French definition.
+Blah blah blah American definition.
+ A2
+ A3
+  B   B1
+ B2
+ B3
+  C   C1
+ C2
+ C3
+  D   D1
+ D2
+ D3
   </description>
     </item>
     

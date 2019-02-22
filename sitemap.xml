@@ -67,7 +67,7 @@
   </url>
   
   <url>
-    <loc>/categories/bourse/</loc>
+    <loc>/categories/bourse-stocks/</loc>
     <lastmod>2019-01-31T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -89,6 +89,12 @@
   </url>
   
   <url>
+    <loc>/categories/finances-perso-personal-finance/</loc>
+    <lastmod>2019-01-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/frais-de-negociation/</loc>
     <lastmod>2019-01-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -99,7 +105,7 @@
   </url>
   
   <url>
-    <loc>/categories/immobilier/</loc>
+    <loc>/categories/immobilier-real-estate/</loc>
     <lastmod>2019-01-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -131,12 +137,6 @@
   <url>
     <loc>/misc/</loc>
     <lastmod>2019-02-13T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/placements/</loc>
-    <lastmod>2019-01-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

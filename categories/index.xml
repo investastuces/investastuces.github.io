@@ -11,29 +11,29 @@
     
     
     <item>
-      <title>Bourse</title>
-      <link>/categories/bourse/</link>
+      <title>Bourse/Stocks</title>
+      <link>/categories/bourse-stocks/</link>
       <pubDate>Thu, 31 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>/categories/bourse/</guid>
+      <guid>/categories/bourse-stocks/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Immobilier</title>
-      <link>/categories/immobilier/</link>
-      <pubDate>Sun, 27 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/immobilier/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Placements</title>
-      <link>/categories/placements/</link>
+      <title>Finances Perso/Personal Finance</title>
+      <link>/categories/finances-perso-personal-finance/</link>
       <pubDate>Thu, 03 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>/categories/placements/</guid>
+      <guid>/categories/finances-perso-personal-finance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Immobilier/Real Estate</title>
+      <link>/categories/immobilier-real-estate/</link>
+      <pubDate>Sun, 27 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/immobilier-real-estate/</guid>
       <description></description>
     </item>
     
