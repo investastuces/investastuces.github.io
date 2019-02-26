@@ -5,10 +5,19 @@
     <link>/misc/</link>
     <description>Recent content in Miscs on Invest Astuces</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 13 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 Feb 2019 00:00:00 -0600</lastBuildDate>
     
 	<atom:link href="/misc/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Sitemap</title>
+      <link>/misc/sitemap/</link>
+      <pubDate>Mon, 25 Feb 2019 00:00:00 -0600</pubDate>
+      
+      <guid>/misc/sitemap/</guid>
+      <description> Accueil / Homepage Blog  bourse/stocks  Hugo is for lovers Linked post  finances-perso/personal-finance  Go is for lovers  immobilier/real-estate  Creating a new theme Migrate from Jekyll   Simulateurs / Simulators Glossaire / Glossary A propos / About Contact Mentions l&amp;eacute;gales  </description>
+    </item>
     
     <item>
       <title>Mentions legales</title>
