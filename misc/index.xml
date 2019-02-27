@@ -5,10 +5,22 @@
     <link>/misc/</link>
     <description>Recent content in Miscs on Invest Astuces</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 25 Feb 2019 00:00:00 -0600</lastBuildDate>
+    <lastBuildDate>Tue, 26 Feb 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/misc/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Mentions legales</title>
+      <link>/misc/mentions-legales/</link>
+      <pubDate>Tue, 26 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/misc/mentions-legales/</guid>
+      <description>Directeur de la Publication : Gr&amp;eacute;goire Branger
+Email : contact@investastuces.com
+Raison Sociale de l&amp;rsquo;H&amp;eacute;bergeur : Ce site internet est h&amp;eacute;berg&amp;eacute; par la soci&amp;eacute;t&amp;eacute; GitHub. Pour contacter cet h&amp;eacute;bergeur :
+ Adresse &amp;eacute;lectronique : https://enterprise.github.com/contact Adresse postale : 88 Colin P. Kelly Jr Street, San Francisco, CA 94107 United States  Propri&amp;eacute;t&amp;eacute; intellectuelle La structure g&amp;eacute;n&amp;eacute;rale ainsi que les logiciels, textes, images anim&amp;eacute;es ou non, son savoir-faire et tous les autres &amp;eacute;l&amp;eacute;ments composant le site sont la propri&amp;eacute;t&amp;eacute; exclusive de Invest Astuces.</description>
+    </item>
     
     <item>
       <title>Sitemap</title>
@@ -17,18 +29,6 @@
       
       <guid>/misc/sitemap/</guid>
       <description> Accueil / Homepage Blog  bourse/stocks  Hugo is for lovers Linked post  finances-perso/personal-finance  Go is for lovers  immobilier/real-estate  Creating a new theme Migrate from Jekyll   Simulateurs / Simulators Glossaire / Glossary A propos / About Contact Mentions l&amp;eacute;gales  </description>
-    </item>
-    
-    <item>
-      <title>Mentions legales</title>
-      <link>/misc/mentions-legales/</link>
-      <pubDate>Wed, 13 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/misc/mentions-legales/</guid>
-      <description>Directeur de la Publication : Greg
-Email : contact@investastuces.com
-Raison Sociale de l&amp;rsquo;H&amp;eacute;bergeur : Ce site internet est h&amp;eacute;berg&amp;eacute; par la soci&amp;eacute;t&amp;eacute; GitHub. Pour contacter cet h&amp;eacute;bergeur :
- Adresse &amp;eacute;lectronique : https://enterprise.github.com/contact Adresse postale : 88 Colin P. Kelly Jr Street, San Francisco, CA 94107 United States  Propri&amp;eacute;t&amp;eacute; intellectuelle : La structure g&amp;eacute;n&amp;eacute;rale ainsi que les logiciels, textes, images anim&amp;eacute;es ou non, son savoir-faire et tous les autres &amp;eacute;l&amp;eacute;ments composant le site sont la propri&amp;eacute;t&amp;eacute; exclusive de Invest Astuces.</description>
     </item>
     
   </channel>
