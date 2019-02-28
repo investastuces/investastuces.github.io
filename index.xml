@@ -1871,35 +1871,126 @@ so, such as in this example:&lt;/p&gt;
     </item>
     
     <item>
-      <title>A propos</title>
+      <title>A propos de nous</title>
       <link>/a-propos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/a-propos/</guid>
       <description>
 
-&lt;p&gt;Blah blah blah plein d&amp;rsquo;infos sur nous.&lt;/p&gt;
+&lt;h1 id=&#34;a-name-french&#34;&gt;&lt;a name=&#34;French&#34;&gt;&lt;/h1&gt;
 
-&lt;p&gt;Goto &lt;a href=&#34;https://github.com/spf13/hugo/releases&#34;&gt;hugo releases&lt;/a&gt; and download the
-appropriate version for your os and architecture.&lt;/p&gt;
+&lt;p style=&#34;text-align: center;&#34; markdown = &#34;1&#34;&gt; 
+&lt;img src=&#34;/img/fr.png&#34; alt=&#34;drawing&#34; style=&#34;width:25px;&#34;/&gt; &amp;nbsp; &lt;a href=&#34;#French&#34;&gt;Version fran&amp;ccedil;aise&lt;/a&gt;&amp;nbsp; &amp;nbsp; 
+&lt;img src=&#34;/img/usa.png&#34; alt=&#34;drawing&#34; style=&#34;width:25px;&#34;/&gt; &amp;nbsp; &lt;a href=&#34;#English&#34;&gt;English version&lt;/a&gt;
+&lt;/p&gt;
 
-&lt;p&gt;Save it somewhere specific as we will be using it in the next step.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/img/fr.png&#34; alt=&#34;drawing&#34; style=&#34;width:25px;&#34;/&gt; &amp;nbsp;
+Je m&amp;rsquo;appelle &lt;b&gt;Greg&lt;/b&gt;, j&amp;rsquo;ai 38 ans et je vis actuellement &amp;agrave; &lt;a href=&#34;https://www.visitmilwaukee.org/&#34;&gt;Milwaukee&lt;/a&gt; aux Etats-Unis avec &lt;b&gt;Andrea&lt;/b&gt; (mon &amp;eacute;pouse) et ma fille. Avant de partir je travaillais en tant que juriste dans la fonction publique dans un poste &amp;agrave; responsabilit&amp;eacute;s passionnant, mais tr&amp;egrave;s exigeant.
+Quant &amp;agrave; Andrea, elle a 36 ans, elle est de nationalit&amp;eacute; am&amp;eacute;ricaine et travaille dans le monde de la recherche dans un grand organisme fran&amp;ccedil;ais. Andrea (ma fille est encore trop petite pour me faire des reproches&amp;hellip;) qui en avait marre de me voir 10 min en soir&amp;eacute;e et dans un &amp;eacute;tat de stress permanent, m&amp;rsquo;a dit un jour &amp;ldquo;et si nous partions aux USA&amp;hellip;&amp;rdquo;&lt;/p&gt;
 
-&lt;p&gt;More complete instructions are available at &lt;a href=&#34;/overview/installing/&#34;&gt;installing hugo&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Sachant que mon anglais &amp;eacute;tait vraiment tr&amp;egrave;s pourri (il l&amp;rsquo;est toujours, mais un tout petit moins!!), je me suis dit que finalement cela ne serait pas une si mauvaise id&amp;eacute;e de partir. Pour vous dire la v&amp;eacute;rit&amp;eacute;, le perfectionnement de mon anglais n&amp;rsquo;a pas &amp;eacute;t&amp;eacute; la raison principale de notre d&amp;eacute;part. En effet, dans le cadre de son travail de recherche, Andrea a eu une superbe opportunit&amp;eacute; pour partir. Nous avons donc saut&amp;eacute; sur l&amp;rsquo;occasion et nous ne regrettons rien, m&amp;ecirc;me si la vie d&amp;rsquo;expat comporte son lot de difficult&amp;eacute;s.&lt;/p&gt;
 
-&lt;h2 id=&#34;step-2-build-the-docs&#34;&gt;Step 2. Build the Docs&lt;/h2&gt;
+&lt;h4 id=&#34;alors-pourquoi-le-site-internet-invest-astuces&#34;&gt;Alors pourquoi le site internet Invest Astuces ?&lt;/h4&gt;
 
-&lt;p&gt;Hugo has its own example site which happens to also be the documentation site
-you are reading right now.&lt;/p&gt;
+&lt;p&gt;En arrivant aux USA j&amp;rsquo;ai rapidement compris que mes comp&amp;eacute;tentes en droit fran&amp;ccedil;ais allaient &amp;ecirc;tre d&amp;rsquo;une parfaite inutilit&amp;eacute; aux USA. J&amp;rsquo;ai donc commenc&amp;eacute; &amp;agrave; travailler comme cariste et manutentionnaire dans des grands groupes de transport. M&amp;ecirc;mes si ces emplois &amp;agrave; mi-temps et tr&amp;egrave;s irr&amp;eacute;guliers me permettaient de rencontrer des gens extraordinaires, ils me laissaient &amp;eacute;galement beaucoup de temps libre.&lt;/p&gt;
 
-&lt;p&gt;Follow the following steps:&lt;/p&gt;
+&lt;p&gt;Je me suis donc pos&amp;eacute; la question de savoir ce que je pouvais faire avec ce nouvel emploi du temps plus ouvert.&lt;/p&gt;
 
-&lt;ol&gt;
-&lt;li&gt;Clone the &lt;a href=&#34;http://github.com/spf13/hugo&#34;&gt;hugo repository&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Go into the repo&lt;/li&gt;
-&lt;li&gt;Run hugo in server mode and build the docs&lt;/li&gt;
-&lt;li&gt;Open your browser to &lt;a href=&#34;http://localhost:1313&#34;&gt;http://localhost:1313&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
+&lt;p&gt;Or, il y a environ une dizaine d&amp;rsquo;ann&amp;eacute;es, j&amp;rsquo;ai commenc&amp;eacute; &amp;agrave; m&amp;rsquo;int&amp;eacute;resser aux divers investissements qui pouvaient exister. Depuis lors, j&amp;rsquo;ach&amp;egrave;te des revues, des livres, je fouille sur internet &amp;agrave; droite et &amp;agrave; gauche, bref je suis devenu un passionn&amp;eacute;.&lt;/p&gt;
+
+&lt;p&gt;Avec mon &amp;eacute;pouse nous avons r&amp;eacute;alis&amp;eacute; notre premier investissement immobilier en 2011 (un T3 &amp;agrave; Rennes en loi Scellier), puis un second en 2014 (un petit studio dans l&amp;rsquo;ancien toujours &amp;agrave; Rennes).
+En parall&amp;egrave;le, les placements classiques bancaires et autres assurances-vie ne rapportant pratiquement plus rien, j&amp;rsquo;ai commenc&amp;eacute; &amp;agrave; m&amp;rsquo;int&amp;eacute;resser &amp;agrave; la bourse. Ayant r&amp;eacute;cup&amp;eacute;rer des conseils &amp;agrave; droite &amp;agrave; gauche, j&amp;rsquo;ai d&amp;eacute;cid&amp;eacute; de me lancer dans ce monde compliqu&amp;eacute; mais passionnant en 2014.&lt;/p&gt;
+
+&lt;h4 id=&#34;quel-a-eacute-t-eacute-notre-constat&#34;&gt;Quel a &amp;eacute;t&amp;eacute; notre constat :&lt;/h4&gt;
+
+&lt;p&gt;Lors de ces diff&amp;eacute;rentes &amp;eacute;tapes de notre vie financi&amp;egrave;re nous avons remarqu&amp;eacute; une chose, rien de remplace l&amp;rsquo;exp&amp;eacute;rience.
+J&amp;rsquo;ai eu beau lire un nombre incalculable d&amp;rsquo;articles sur l&amp;rsquo;investissement immobilier ou boursier, les erreurs &amp;agrave; ne pas commettre, les 10 choses &amp;agrave; savoir, tous les conseils &amp;agrave; conna&amp;icirc;tre&amp;hellip; nous avons pourtant fait des d&amp;eacute;couvertes &amp;eacute;tonnantes, commis des erreurs qui ont co&amp;ucirc;t&amp;eacute; cher (parfois beaucoup, notamment lors d&amp;rsquo;une ren&amp;eacute;gociation de cr&amp;eacute;dit&amp;hellip; voir mon article sur le sujet), ou mal compris des explications qui nous avaient &amp;eacute;t&amp;eacute; donn&amp;eacute;es.&lt;/p&gt;
+
+&lt;p&gt;Andrea m&amp;rsquo;a donc pouss&amp;eacute; &amp;agrave; partager mes connaissances acquises au cours de ces ann&amp;eacute;es. Cela s&amp;rsquo;est av&amp;eacute;r&amp;eacute; d&amp;rsquo;autant plus simple que c&amp;rsquo;est elle qui d&amp;rsquo;une part, se charge de tout l&amp;rsquo;aspect technique du site (la cr&amp;eacute;ation du site, les simulateurs, le logo&amp;hellip; Bon, vous l&amp;rsquo;avez compris &lt;a href=&#34;https://investastuces.com&#34;&gt;Invest Astuces&lt;/a&gt; c&amp;rsquo;est &amp;agrave; elle!!!) et d&amp;rsquo;autre part, traduit certains articles en anglais.&lt;/p&gt;
+
+&lt;h4 id=&#34;invest-astuces-a-pour-objectifs&#34;&gt;Invest Astuces a pour objectifs :&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;de vous faire profiter de mon exp&amp;eacute;rience et de celle des autres afin de partager des astuces et d&amp;rsquo;&amp;eacute;viter de commettre des erreurs du pass&amp;eacute; pour vous permettre de faire des choix plus habiles dans vos futurs investissements ;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;de vous proposer un &lt;a href=&#34;https://investastuces.com/blog&#34;&gt;contenu&lt;/a&gt; le plus claire et le plus pr&amp;eacute;cis possible en faisant notamment r&amp;eacute;f&amp;eacute;rence &amp;agrave; la r&amp;eacute;glementation en vigueur ;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;de vous clarifier les &lt;a href=&#34;https://investastuces.com/glossaire&#34;&gt;termes barbares&lt;/a&gt; qui peuplent le monde de l&amp;rsquo;investissement. En effet, la premi&amp;egrave;re astuce &amp;agrave; conna&amp;icirc;tre lorsqu&amp;rsquo;on veut investir est de comprendre les cons&amp;eacute;quences des choix propos&amp;eacute;s par  un banquier, un agent immobilier, ou un courtier. Cela vous &amp;eacute;vitera de perdre inutilement de l&amp;rsquo;argent par manque de connaissance ou de compr&amp;eacute;hension ;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;de permettre &amp;agrave; des expatri&amp;eacute;s anglophones en France d&amp;rsquo;avoir acc&amp;egrave;s &amp;agrave; ces connaissances, par une traduction en anglais de certains des articles propos&amp;eacute;s, mais &amp;eacute;galement de vous faire partager mes d&amp;eacute;couvertes sur le monde des finances personnelles aux USA, avec notamment une explication des concepts parfois bien diff&amp;eacute;rents de ceux existant en France (l&amp;rsquo;&lt;i&gt;equity&lt;/i&gt;, le &lt;i&gt;credit score&lt;/i&gt;&amp;hellip;) ;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;et enfin gr&amp;acirc;ce aux &lt;a href=&#34;https://investastuces.com/simulateurs&#34;&gt;simulateurs&lt;/a&gt;, de faire de ce site une bo&amp;icirc;te &amp;agrave; outils vous permettant de faire des choix plus &amp;eacute;clair&amp;eacute;s dans vos futurs investissements et de d&amp;eacute;terminer la solution la mieux adapt&amp;eacute;e &amp;agrave; vos besoins et &amp;agrave; votre capacit&amp;eacute; d&amp;rsquo;emprunt.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;que-trouve-t-on-sur-invest-astuces&#34;&gt;Que trouve-t-on sur Invest Astuces ?&lt;/h4&gt;
+
+&lt;p&gt;Le site est d&amp;eacute;coup&amp;eacute; en diff&amp;eacute;rentes rubriques :&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://investastuces.com/blog&#34;&gt;Blog&lt;/a&gt;: cette rubrique regroupe tous les articles r&amp;eacute;dig&amp;eacute;s sur le site et est divis&amp;eacute;e en plusieurs cat&amp;eacute;gories (bourse, immobilier&amp;hellip;). Vous disposez &amp;eacute;galement d&amp;rsquo;un moteur de recherche et d&amp;rsquo;une liste de tags pour vous permettre de trouver plus facilement un article.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://investastuces.com/simulateurs&#34;&gt;Simulateurs&lt;/a&gt; : les outils propos&amp;eacute;s dans cette rubrique vous permettent ex&amp;eacute;cuter diff&amp;eacute;rents calculs financiers (calcul des mensualit&amp;eacute;s d&amp;rsquo;un cr&amp;eacute;dit, TAEG, TAEA, rendement locatif, capacit&amp;eacute; d&amp;rsquo;emprunt&amp;hellip;). A la diff&amp;eacute;rence des simulateurs propos&amp;eacute;s sur d&amp;rsquo;autres sites, vous pouvez exporter les r&amp;eacute;sultats obtenus en format Excel afin d&amp;rsquo;int&amp;eacute;grer vos r&amp;eacute;sultats dans vos propres simulations ou tableurs.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://investastuces.com/glossaire&#34;&gt;Glossaire&lt;/a&gt; : cette rubrique a vocation &amp;agrave; contenir les termes techniques et financiers abord&amp;eacute;s dans les articles.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;a-name-english&#34;&gt;&lt;a name=&#34;English&#34;&gt;&lt;/h1&gt;
+
+&lt;p&gt;Nous esp&amp;eacute;rons que les astuces et les outils pr&amp;eacute;sents sur ce site vous permettront de faire des investissements plus habiles que ceux que nous avons pu faire et n&amp;rsquo;h&amp;eacute;sitez pas &amp;agrave; partager vos exp&amp;eacute;riences.
+Rendez-vous &amp;eacute;galement sur les pages &lt;a href=&#34;http://twitter.com/investastuces&#34;&gt;Twitter&lt;/a&gt;, &lt;a href=&#34;http://tfacebook.com/investastuces&#34;&gt;Facebook&lt;/a&gt;, et &lt;a href=&#34;http://instagram.com/investastuces&#34;&gt;Instagram&lt;/a&gt; d&amp;rsquo;Invest Astuces.&lt;/p&gt;
+
+&lt;p&gt;Bonne lecture et bonne simulation !!&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/usa.png&#34; alt=&#34;drawing&#34; style=&#34;width:25px;&#34;/&gt; &amp;nbsp;
+My name is Greg, I&amp;rsquo;m 38 years old and I live in &lt;a href=&#34;https://www.visitmilwaukee.org/&#34;&gt;Milwaukee&lt;/a&gt; in the USA with my wife Andrea and my daughter. Before leaving France, I worked as a public service lawyer in a challenging but very demanding position.
+As for Andrea, she is 36 years old and an American citizen, and she is a researcher in a large French research institution.  After months and months of seeing me in a permanent state of stress every day, Andrea had a thought: &amp;ldquo;what if we move to the USA for awhile?&amp;rdquo;. Knowing that my English could use some improvement (it still does, but less so now!), I eventually came around to the idea of leaving.&lt;/p&gt;
+
+&lt;p&gt;To tell you the truth, perfecting of my English was not the main reason for our departure &amp;ndash; in fact, as part of her research work Andrea had a great opportunity to leave. So we jumped at the opportunity and we do not regret anything, even if the expat life sometimes has its share of difficulties.&lt;/p&gt;
+
+&lt;h4 id=&#34;so-why-the-invest-astuces-blog&#34;&gt;So why the Invest Astuces blog?&lt;/h4&gt;
+
+&lt;p&gt;When I arrived in the USA, I quickly realized that my skills in French law would be of utter uselessness in the USA. So I started to work as a truck driver and loader in large transportation companies. Even though these part-time and very irregular jobs allowed me to meet extraordinary people, they also left me plenty of free time. So I wondered what I could do with this new, more open schedule&amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;About ten years ago, I began to take an interest in the various investments that exist, and I started buying magazines and books, and looking up investment tips (&lt;i&gt;astuces&lt;/i&gt;, in French) online &amp;ndash; in short, understanding financial investments became a real passion for me. My wife and I ??made our first investment in real estate in 2011 (a new two-bedroom, or T2, apartment in Rennes using the French Scellier tax law), then a second in 2014 (an older studio apartment in Rennes). At the same time, as traditional banking and other life insurance investments were yielding us almost nothing, I started to get interested in the stock market. Having gotten various pieces of advice on stock investments, I decided to get into this complicated but exciting world in 2014.&lt;/p&gt;
+
+&lt;h4 id=&#34;what-we-observed&#34;&gt;What we observed :&lt;/h4&gt;
+
+&lt;p&gt;During these different stages of our financial life we noticed one thing: nothing replaces experience. I have read a lot of articles on real estate and stock investments, mistakes not to make, the 10 things to know, all the tips to know &amp;hellip; yet we made many surprising discoveries and mistakes over the years which have cost us (sometimes a lot, especially during a loan renegotiation&amp;hellip; see my article on the subject), or misunderstood explanations that had been given to us.&lt;/p&gt;
+
+&lt;p&gt;Andrea encouraged me to share my knowledge gained during these years. This turned out to be all the more simple since it is she who, on the one hand, takes care of all the technical aspects of the site (the creation of the site, the simulators, the logo&amp;hellip; by now you&amp;rsquo;ve understood that &lt;a href=&#34;https://investastuces.com&#34;&gt;Invest Astuces&lt;/a&gt; is hers too!) and secondly, translated some articles into English.&lt;/p&gt;
+
+&lt;h4 id=&#34;invest-astuces-has-the-following-objectives&#34;&gt;Invest Astuces has the following objectives:&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;to share my experience and that of others to give you tips and advice to avoid making past mistakes, so that you can make better choices in your future investments;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;to offer you the clearest and most precise &lt;a href=&#34;https://investastuces.com/blog&#34;&gt;content&lt;/a&gt; possible, in particular by referring to the current regulations and laws;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;to clarify the sometimes &lt;a href=&#34;https://investastuces.com/glossaire&#34;&gt;tricky terms&lt;/a&gt; that populate the world of investment. Indeed, the first tip to know when you want to invest is to understand the consequences of the choices proposed by a banker, real estate agent, or broker. This will save you unnecessary costs arising from a simple lack of knowledge or understanding;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;to allow English-speaking expatriates in France to have access to this knowledge, by translating some of the articles offered in English, but also to share with you my discoveries on the world of personal finances in the US, including an explanation of concepts sometimes very different from those existing in France (equity, credit score &amp;hellip;);&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;and finally thanks to the &lt;a href=&#34;https://investastuces.com/simulateurs&#34;&gt;simulators&lt;/a&gt;, to make this site a toolbox allowing you to make more informed choices in your future investments and determine the best solution for your needs and borrowing capacity.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;what-s-on-invest-astuces&#34;&gt;What&amp;rsquo;s on Invest Astuces?&lt;/h4&gt;
+
+&lt;p&gt;The site is divided into different sections:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://investastuces.com/blog&#34;&gt;Blog&lt;/a&gt;: this section includes all articles written on the site and is divided into several categories (stock exchange, real estate &amp;hellip;). You also have a search engine and a list of tags to make it easier for you to find an article.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://investastuces.com/simulateurs&#34;&gt;Simulators&lt;/a&gt;: the tools proposed in this section allow you to perform various financial calculations (calculation of the monthly payments of a credit, APR, TAEA, rental yield, borrowing capacity &amp;hellip;). Unlike simulators offered on other sites, you can export the results obtained in Excel format to integrate your results in your own simulations or spreadsheets.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://investastuces.com/glossaire&#34;&gt;Glossary&lt;/a&gt;: this section aims to contain the technical and financial terms covered in the articles.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;We hope that the tips and tools on this site will allow you to make more clever investments &amp;ndash; feel free to share your experiences, and visit the Invest Astuces &lt;a href=&#34;http://twitter.com/investastuces&#34;&gt;Twitter&lt;/a&gt;, &lt;a href=&#34;http://tfacebook.com/investastuces&#34;&gt;Facebook&lt;/a&gt;, and &lt;a href=&#34;http://instagram.com/investastuces&#34;&gt;Instagram&lt;/a&gt; pages.&lt;/p&gt;
+
+&lt;p&gt;Enjoy!&lt;/p&gt;
 </description>
     </item>
     
