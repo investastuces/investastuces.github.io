@@ -214,10 +214,33 @@ Greg and Andrea</p>
 
                 <div id="contact-message"></div>
                 
-                <form method="POST" action="https://formspree.io/contact@investastuces.com">
-                <input type="email" name="email" placeholder="Your email">
-                 <textarea name="message" placeholder="Test Message"></textarea>
-                <button type="submit">Send Test</button>
+                <form class="contact-form" method="POST" action="https://formspree.io/contact@investastuces.com">
+  
+                                    <div class="row">
+                        <div class="col-sm-6">
+                            <div class="form-group">
+                              <label for="name">Votre nom</label>
+                                <input type="text" class="form-control" name="name" id="name" required>
+                            </div>
+                        </div>
+                        <div class="col-sm-6">
+                            <div class="form-group">
+                                <label for="email">Votre Email</label>
+                                <input type="text" class="form-control" name="email" id="email" required>
+                            </div>
+                        </div>
+                        <div class="col-sm-12">
+                            <div class="form-group">
+                              <label for="message">Votre Message</label>
+                                <textarea id="message" class="form-control" name="message" required></textarea>
+                            </div>
+                        </div>
+
+                        <div class="col-sm-12 text-center">
+  
+                          <button type="submit"><i class="fa fa-envelope-o"></i>Envoyer le Message</button>
+                        </div>
+                    </div>
                 </form>
 
   
