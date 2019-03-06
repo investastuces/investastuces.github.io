@@ -5,23 +5,19 @@
     <link>/tags/actions/</link>
     <description>Recent content in Actions on Invest Astuces</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 31 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 Mar 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/actions/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Hugo is for lovers</title>
-      <link>/blog/2019/first-article-bourse/</link>
-      <pubDate>Thu, 31 Jan 2019 00:00:00 +0000</pubDate>
+      <title>Mes 10 règles d’or pour débuter en Bourse</title>
+      <link>/blog/2019/10-regles-dor-pour-debuter-en-bourse/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2019/first-article-bourse/</guid>
-      <description>Step 1. Install Hugo Goto hugo releases and download the appropriate version for your os and architecture.
-Save it somewhere specific as we will be using it in the next step.
-More complete instructions are available at installing hugo
-Step 2. Build the Docs Hugo has its own example site which happens to also be the documentation site you are reading right now.
-Follow the following steps:
- Clone the hugo repository Go into the repo Run hugo in server mode and build the docs Open your browser to http://localhost:1313  Corresponding pseudo commands:</description>
+      <guid>/blog/2019/10-regles-dor-pour-debuter-en-bourse/</guid>
+      <description>La Bourse fascine autant qu’elle fait peur. Si pour quelques uns, elle est synonyme d’opportunité et de profit potentiel important, pour beaucoup la Bourse reste un placement dangereux et exclusivement réservé aux experts en investissement.
+Qui n’a pas en tête le désastre de l’action Eurotunnel à la fin des années 90? Pour rappel, les actions Eurotunnel qui avaient été présentées comme un placement de “bon père de famille”, ont été introduites en 1987 au cours de 8.</description>
     </item>
     
   </channel>

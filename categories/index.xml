@@ -5,7 +5,7 @@
     <link>/categories/</link>
     <description>Recent content in Categories on Invest Astuces</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 31 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 Mar 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
@@ -13,27 +13,9 @@
     <item>
       <title>Bourse/Stocks</title>
       <link>/categories/bourse-stocks/</link>
-      <pubDate>Thu, 31 Jan 2019 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>/categories/bourse-stocks/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Finances Perso/Personal Finance</title>
-      <link>/categories/finances-perso-personal-finance/</link>
-      <pubDate>Thu, 03 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/finances-perso-personal-finance/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Immobilier/Real Estate</title>
-      <link>/categories/immobilier-real-estate/</link>
-      <pubDate>Sun, 27 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/immobilier-real-estate/</guid>
       <description></description>
     </item>
     
