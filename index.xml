@@ -320,12 +320,12 @@ De telles informations sont utilis&amp;eacute;es exclusivement &amp;agrave; des 
       <guid>/a-propos/</guid>
       <description>
 
-&lt;h1 id=&#34;a-name-french&#34;&gt;&lt;a name=&#34;French&#34;&gt;&lt;/h1&gt;
-
 &lt;p style=&#34;text-align: center;&#34; markdown = &#34;1&#34;&gt; 
 &lt;img src=&#34;/img/fr.png&#34; alt=&#34;drawing&#34; style=&#34;width:25px;&#34;/&gt; &amp;nbsp; &lt;a href=&#34;#French&#34;&gt;Version fran&amp;ccedil;aise&lt;/a&gt;&amp;nbsp; &amp;nbsp; 
 &lt;img src=&#34;/img/usa.png&#34; alt=&#34;drawing&#34; style=&#34;width:25px;&#34;/&gt; &amp;nbsp; &lt;a href=&#34;#English&#34;&gt;English version&lt;/a&gt;
 &lt;/p&gt;
+
+&lt;h1 id=&#34;a-name-french-a&#34;&gt;&lt;a name=&#34;French&#34;&gt;&lt;/a&gt;&lt;/h1&gt;
 
 &lt;p&gt;&lt;img src=&#34;/img/fr.png&#34; alt=&#34;drawing&#34; style=&#34;width:25px;&#34;/&gt; &amp;nbsp;
 Je m&amp;rsquo;appelle &lt;b&gt;Greg&lt;/b&gt;, j&amp;rsquo;ai 38 ans et je vis actuellement &amp;agrave; &lt;a href=&#34;https://www.visitmilwaukee.org/&#34;&gt;Milwaukee&lt;/a&gt; dans le Wisconsin aux Etats-Unis avec &lt;b&gt;Andrea&lt;/b&gt; (mon &amp;eacute;pouse) et ma fille. Avant de partir je travaillais en tant que juriste dans la fonction publique dans un poste &amp;agrave; responsabilit&amp;eacute;s passionnant, mais tr&amp;egrave;s exigeant.
@@ -382,13 +382,13 @@ Rendez-vous &amp;eacute;galement sur les pages &lt;a href=&#34;http://twitter.co
 
 &lt;p&gt;Bonne lecture et bonne simulation !!&lt;/p&gt;
 
-&lt;h1 id=&#34;a-name-english&#34;&gt;&lt;a name=&#34;English&#34;&gt;&lt;/h1&gt;
-
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
 
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;a-name-english-a&#34;&gt;&lt;a name=&#34;English&#34;&gt;&lt;/a&gt;&lt;/h1&gt;
 
 &lt;p&gt;&lt;img src=&#34;/img/usa.png&#34; alt=&#34;drawing&#34; style=&#34;width:25px;&#34;/&gt; &amp;nbsp;
 My name is Greg, I&amp;rsquo;m 38 years old and I live in &lt;a href=&#34;https://www.visitmilwaukee.org/&#34;&gt;Milwaukee&lt;/a&gt;, Wisconsin, in the USA with my wife Andrea and my daughter. Before leaving France, I worked as a public service lawyer in a challenging but very demanding position.
