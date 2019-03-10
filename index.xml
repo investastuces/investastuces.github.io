@@ -5,10 +5,36 @@
     <link>/</link>
     <description>Recent content on Invest Astuces</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 05 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 10 Mar 2019 00:00:00 -0600</lastBuildDate>
     
         <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Sitemap</title>
+      <link>/misc/sitemap/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 -0600</pubDate>
+      
+      <guid>/misc/sitemap/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://investastuces.com&#34;&gt;Accueil / Homepage&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://investastuces.com/blog&#34;&gt;Blog&lt;/a&gt;
+
+&lt;ul&gt;
+&lt;li&gt;bourse/stocks
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://investastuces.com/blog/10-regles-dor-pour-debuter-en-bourse&#34;&gt;Mes 10 règles d’or pour débuter en Bourse&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://investastuces.com/simulateurs&#34;&gt;Simulateurs / Simulators&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://investastuces.com/glossaire&#34;&gt;Glossaire / Glossary&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://investastuces.com/a-propos&#34;&gt;A propos / About&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://investastuces.com/contact&#34;&gt;Contact&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://investastuces.com/misc/mentions-legales&#34;&gt;Mentions l&amp;eacute;gales&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Mes 10 règles d’or pour débuter en Bourse</title>
@@ -287,44 +313,6 @@ De telles informations sont utilis&amp;eacute;es exclusivement &amp;agrave; des 
     </item>
     
     <item>
-      <title>Sitemap</title>
-      <link>/misc/sitemap/</link>
-      <pubDate>Mon, 25 Feb 2019 00:00:00 -0600</pubDate>
-      
-      <guid>/misc/sitemap/</guid>
-      <description>&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://investastuces.com&#34;&gt;Accueil / Homepage&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://investastuces.com/blog&#34;&gt;Blog&lt;/a&gt;
-
-&lt;ul&gt;
-&lt;li&gt;bourse/stocks
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://investastuces.com/blog/first-article-bourse&#34;&gt;Hugo is for lovers&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://investastuces.com/blog/second-article-bourse&#34;&gt;Linked post&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;finances-perso/personal-finance
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://investastuces.com/blog/first-article-placements&#34;&gt;Go is for lovers&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;immobilier/real-estate
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://investastuces.com/blog/first-article-immobilier&#34;&gt;Creating a new theme&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://investastuces.com/blog/second-article-immobilier&#34;&gt;Migrate from Jekyll&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://investastuces.com/simulateurs&#34;&gt;Simulateurs / Simulators&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://investastuces.com/glossaire&#34;&gt;Glossaire / Glossary&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://investastuces.com/a-propos&#34;&gt;A propos / About&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://investastuces.com/contact&#34;&gt;Contact&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://investastuces.com/misc/mentions-legales&#34;&gt;Mentions l&amp;eacute;gales&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
       <title>A propos de nous / About us</title>
       <link>/a-propos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -340,7 +328,7 @@ De telles informations sont utilis&amp;eacute;es exclusivement &amp;agrave; des 
 &lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;/img/fr.png&#34; alt=&#34;drawing&#34; style=&#34;width:25px;&#34;/&gt; &amp;nbsp;
-Je m&amp;rsquo;appelle &lt;b&gt;Greg&lt;/b&gt;, j&amp;rsquo;ai 38 ans et je vis actuellement &amp;agrave; &lt;a href=&#34;https://www.visitmilwaukee.org/&#34;&gt;Milwaukee&lt;/a&gt; aux Etats-Unis avec &lt;b&gt;Andrea&lt;/b&gt; (mon &amp;eacute;pouse) et ma fille. Avant de partir je travaillais en tant que juriste dans la fonction publique dans un poste &amp;agrave; responsabilit&amp;eacute;s passionnant, mais tr&amp;egrave;s exigeant.
+Je m&amp;rsquo;appelle &lt;b&gt;Greg&lt;/b&gt;, j&amp;rsquo;ai 38 ans et je vis actuellement &amp;agrave; &lt;a href=&#34;https://www.visitmilwaukee.org/&#34;&gt;Milwaukee&lt;/a&gt; dans le Wisconsin aux Etats-Unis avec &lt;b&gt;Andrea&lt;/b&gt; (mon &amp;eacute;pouse) et ma fille. Avant de partir je travaillais en tant que juriste dans la fonction publique dans un poste &amp;agrave; responsabilit&amp;eacute;s passionnant, mais tr&amp;egrave;s exigeant.
 Quant &amp;agrave; Andrea, elle a 36 ans, elle est de nationalit&amp;eacute; am&amp;eacute;ricaine et travaille dans le monde de la recherche dans un grand organisme fran&amp;ccedil;ais. Andrea (ma fille est encore trop petite pour me faire des reproches&amp;hellip;) qui en avait marre de me voir 10 min en soir&amp;eacute;e et dans un &amp;eacute;tat de stress permanent, m&amp;rsquo;a dit un jour &amp;ldquo;et si nous partions aux USA&amp;hellip;&amp;rdquo;&lt;/p&gt;
 
 &lt;p&gt;Sachant que mon anglais &amp;eacute;tait vraiment tr&amp;egrave;s pourri (il l&amp;rsquo;est toujours, mais un tout petit moins!!), je me suis dit que finalement cela ne serait pas une si mauvaise id&amp;eacute;e de partir. Pour vous dire la v&amp;eacute;rit&amp;eacute;, le perfectionnement de mon anglais n&amp;rsquo;a pas &amp;eacute;t&amp;eacute; la raison principale de notre d&amp;eacute;part. En effet, dans le cadre de son travail de recherche, Andrea a eu une superbe opportunit&amp;eacute; pour partir. Nous avons donc saut&amp;eacute; sur l&amp;rsquo;occasion et nous ne regrettons rien, m&amp;ecirc;me si la vie d&amp;rsquo;expat comporte son lot de difficult&amp;eacute;s.&lt;/p&gt;
@@ -403,7 +391,7 @@ Rendez-vous &amp;eacute;galement sur les pages &lt;a href=&#34;http://twitter.co
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;/img/usa.png&#34; alt=&#34;drawing&#34; style=&#34;width:25px;&#34;/&gt; &amp;nbsp;
-My name is Greg, I&amp;rsquo;m 38 years old and I live in &lt;a href=&#34;https://www.visitmilwaukee.org/&#34;&gt;Milwaukee&lt;/a&gt; in the USA with my wife Andrea and my daughter. Before leaving France, I worked as a public service lawyer in a challenging but very demanding position.
+My name is Greg, I&amp;rsquo;m 38 years old and I live in &lt;a href=&#34;https://www.visitmilwaukee.org/&#34;&gt;Milwaukee&lt;/a&gt;, Wisconsin, in the USA with my wife Andrea and my daughter. Before leaving France, I worked as a public service lawyer in a challenging but very demanding position.
 As for Andrea, she is 36 years old and an American citizen, and she is a researcher in a large French research institution.  After months and months of seeing me in a permanent state of stress every day, Andrea had a thought: &amp;ldquo;what if we move to the USA for awhile?&amp;rdquo;. Knowing that my English could use some improvement (it still does, but less so now!), I eventually came around to the idea of leaving.&lt;/p&gt;
 
 &lt;p&gt;To tell you the truth, perfecting my English was not the main reason for our departure &amp;ndash; in fact, as part of her research work Andrea had a great opportunity to leave. So we jumped at the opportunity and we do not regret anything, even if the expat life sometimes has its share of difficulties.&lt;/p&gt;
@@ -441,7 +429,7 @@ As for Andrea, she is 36 years old and an American citizen, and she is a researc
 &lt;ul&gt;
 &lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://investastuces.com/blog&#34;&gt;Blog&lt;/a&gt;: this section includes all articles written on the site and is divided into several categories (stock exchange, real estate &amp;hellip;). You also have a search engine and a list of tags to make it easier for you to find an article.&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://investastuces.com/simulateurs&#34;&gt;Simulators&lt;/a&gt;: the tools proposed in this section allow you to perform various financial calculations (calculation of the monthly payments of a credit, APR, TAEA, rental yield, borrowing capacity &amp;hellip;). Unlike simulators offered on other sites, you can export the results obtained in Excel format to integrate your results in your own simulations or spreadsheets.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://investastuces.com/simulateurs&#34;&gt;Simulators&lt;/a&gt;: the tools proposed in this section allow you to perform various financial calculations (calculation of the monthly payments of a credit, APR, TAEA, rental yield, borrowing capacity &amp;hellip;). Unlike simulators offered on other sites, you can export the results obtained in Excel format to integrate your results into your own simulations or spreadsheets.&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://investastuces.com/glossaire&#34;&gt;Glossary&lt;/a&gt;: this section aims to contain the technical and financial terms covered in the articles.&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
@@ -463,7 +451,7 @@ Vous avez une id&amp;eacute;e d&amp;rsquo;article ou une suggestion &amp;agrave;
 Vous avez constat&amp;eacute; qu&amp;rsquo;une erreur ou une omission s&amp;rsquo;est gliss&amp;eacute;e dans l&amp;rsquo;une des pages ?
 Vous souhaitez obtenir un renseignement ?&lt;br /&gt;
 Alors n&amp;rsquo;h&amp;eacute;sitez pas &amp;agrave; nous laisser un commentaire sur le blog ou &amp;agrave; nous contacter &amp;agrave; &lt;a href=&#34;mailto:contact@investastuces.com&#34;&gt;contact@investastuces.com&lt;/a&gt;, sur nos comptes &lt;a href=&#34;http://facebook.com/investastuces&#34;&gt;Facebook&lt;/a&gt;, &lt;a href=&#34;http://twitter.com/investastuces&#34;&gt;Twitter&lt;/a&gt;, et &lt;a href=&#34;http://instagram.com/investastuces&#34;&gt;Instagram&lt;/a&gt;, ou avec le formulaire de contact ci dessous.&lt;br /&gt;
-Nous vous r&amp;eacute;pondrons le plus rapidement possible avec grand plaisir.&lt;br /&gt;
+Nous vous r&amp;eacute;pondrons le plus rapidement possible avec grand plaisir!&lt;br /&gt;
 A bient&amp;ocirc;t,&lt;br /&gt;
 Greg et Andrea&lt;/p&gt;
 
@@ -472,7 +460,7 @@ Do you have an idea for an article or a suggestion for the &lt;a href=&#34;https
 Did you notice an error or omission that has inadvertently crept into one of our posts?
 Are you looking for more information?&lt;br /&gt;
 If so, do not hesitate to leave us a comment on our blog posts or contact us at &lt;a href=&#34;mailto:contact@investastuces.com&#34;&gt;contact@investastuces.com&lt;/a&gt;, on our &lt;a href=&#34;http://facebook.com/investastuces&#34;&gt;Facebook&lt;/a&gt;, &lt;a href=&#34;http://twitter.com/investastuces&#34;&gt;Twitter&lt;/a&gt;, and &lt;a href=&#34;http://instagram.com/investastuces&#34;&gt;Instagram&lt;/a&gt; accounts, or with the contact form below.&lt;br /&gt;
-We look forward to hearing from you soon,&lt;br /&gt;
+We look forward to hearing from you soon!&lt;br /&gt;
 Greg and Andrea&lt;/p&gt;
 </description>
     </item>

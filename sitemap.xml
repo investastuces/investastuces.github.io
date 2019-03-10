@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/misc/sitemap/</loc>
+    <lastmod>2019-03-10T00:00:00-06:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/blog/2019/10-regles-dor-pour-debuter-en-bourse/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url>
@@ -10,11 +15,6 @@
   <url>
     <loc>/misc/mentions-legales/</loc>
     <lastmod>2019-02-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/misc/sitemap/</loc>
-    <lastmod>2019-02-25T00:00:00-06:00</lastmod>
   </url>
   
   <url>
@@ -61,13 +61,13 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
+    <lastmod>2019-03-10T00:00:00-06:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/misc/</loc>
-    <lastmod>2019-02-26T00:00:00+00:00</lastmod>
+    <lastmod>2019-03-10T00:00:00-06:00</lastmod>
     <priority>0</priority>
   </url>
   
