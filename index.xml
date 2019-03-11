@@ -94,7 +94,7 @@ C’est pourquoi vous trouverez dans cet article l’astuce qui vous permettra d
 &lt;br&gt;
 &lt;br&gt;&lt;/p&gt;
 
-&lt;table style=&#34;width:100%&#34;&gt;
+&lt;table class=&#34;hoverTable&#34;&gt;
   &lt;tr&gt;
     &lt;th&gt;&lt;/th&gt;
     &lt;th&gt;Exemple 1&lt;/th&gt; 
@@ -168,7 +168,7 @@ Ainsi, sauf à faire un calcul compliqué intégrant le capital emprunté, les i
 &lt;br&gt;
 &lt;br&gt;
 
-&lt;table&gt;
+&lt;table class=&#34;hoverTable&#34;&gt;
 &lt;tr&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -351,9 +351,11 @@ En effet, certaines entreprises pourront avoir un cours de Bourse moyen, mais vo
 
 &lt;p&gt;Privilégiez les courtiers en ligne spécialisés dans ce domaine. Vous ne payez aucun frais de tenu de compte et les frais de courtage sont particulièrement réduit (frais prélevés par les intermédiaires en Bourse lors de l&amp;rsquo;achat ou de la vente de titres boursiers).&lt;/p&gt;
 
-&lt;p&gt;Dans le calcul de la rentabilité ces frais ne sont pas à négliger (toute comme la taxe sur les transactions financières), car ils augmentent mécaniquement le coût d’une action que vous souhaitez acquérir ou vendre. Dans ce dernier cas, la plus-value éventuellement acquise peut être fortement réduite en cas de frais conséquents.&lt;/p&gt;
+&lt;p&gt;Dans le calcul de la rentabilité ces frais ne sont pas à négliger (toute comme la taxe sur les transactions financières), car ils augmentent mécaniquement le coût d’une action que vous souhaitez acquérir ou vendre. Dans ce dernier cas, la plus-value éventuellement acquise peut être fortement réduite en cas de frais conséquents.
+&lt;br&gt;
+&lt;br&gt;&lt;/p&gt;
 
-&lt;table&gt;
+&lt;table class=&#34;hoverTable&#34;&gt;
 &lt;tr&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
