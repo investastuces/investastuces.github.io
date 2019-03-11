@@ -802,7 +802,7 @@ Mot anglais couramment utilisé dans l’univers de la finance et correspondant 
       
       <guid>/simulateurs/</guid>
       <description>&lt;p&gt;&lt;div id=&#34;example1-container&#34; markdown = &#34;1&#34;&gt;
-&lt;iframe id=&#34;example1&#34; src=&#34;https://investastuces.shinyapps.io/test/&#34; style=&#34;border: none; width: 100%; height: 850px&#34; frameborder=&#34;0&#34; markdown = &#34;1&#34;&gt;&lt;/iframe&gt;
+&lt;iframe id=&#34;example1&#34; src=&#34;https://investastuces.shinyapps.io/test/&#34; style=&#34;border: none; width: 100%; height: 1000px&#34; frameborder=&#34;0&#34; markdown = &#34;1&#34;&gt;&lt;/iframe&gt;
 &lt;/div&gt;&lt;/p&gt;
 </description>
     </item>
