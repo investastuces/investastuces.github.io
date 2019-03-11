@@ -8,6 +8,11 @@
   </url>
   
   <url>
+    <loc>/blog/2019/taeg-precieux-outil-de-comparaison/</loc>
+    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/blog/2019/10-regles-dor-pour-debuter-en-bourse/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url>
@@ -29,7 +34,7 @@
   
   <url>
     <loc>/blog/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
+    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -56,7 +61,19 @@
   </url>
   
   <url>
+    <loc>/tags/cr%C3%A9dit/</loc>
+    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/glossaire/</loc>
+  </url>
+  
+  <url>
+    <loc>/categories/immobilier-real-estate/</loc>
+    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -72,13 +89,31 @@
   </url>
   
   <url>
+    <loc>/tags/pr%C3%AAt/</loc>
+    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/regles-dor/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>/tags/simulateurs/</loc>
+    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/simulateurs/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/taeg/</loc>
+    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
