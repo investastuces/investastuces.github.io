@@ -4,7 +4,12 @@
   
   <url>
     <loc>/misc/sitemap/</loc>
-    <lastmod>2019-03-10T00:00:00-06:00</lastmod>
+    <lastmod>2019-03-12T00:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2019/statut-us-persons-contraintes-pour-finances-personnelles/</loc>
+    <lastmod>2019-03-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -34,7 +39,7 @@
   
   <url>
     <loc>/blog/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+    <lastmod>2019-03-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -67,8 +72,26 @@
   </url>
   
   <url>
+    <loc>/tags/expat/</loc>
+    <lastmod>2019-03-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/fatca/</loc>
+    <lastmod>2019-03-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/finance-perso-~-personal-finance/</loc>
+    <lastmod>2019-03-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/fran%C3%A7ais/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+    <lastmod>2019-03-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -84,13 +107,13 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2019-03-10T00:00:00-06:00</lastmod>
+    <lastmod>2019-03-12T00:00:00-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/misc/</loc>
-    <lastmod>2019-03-10T00:00:00-06:00</lastmod>
+    <lastmod>2019-03-12T00:00:00-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -125,6 +148,12 @@
   <url>
     <loc>/tags/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/usa/</loc>
+    <lastmod>2019-03-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
