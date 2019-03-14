@@ -5,10 +5,144 @@
     <link>/</link>
     <description>Recent content on Invest Astuces</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 12 Mar 2019 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 13 Mar 2019 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Les ordres de Bourse</title>
+      <link>/blog/2019/les-ordres-de-bourse/</link>
+      <pubDate>Wed, 13 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2019/les-ordres-de-bourse/</guid>
+      <description>
+
+&lt;p&gt;Lorsque vous commencez à investir en Bourse, il arrive fréquemment que vous n’arriviez pas à vendre la position ou acquérir les titres que vous souhaitez.
+Il est donc important de comprendre les différents types d’ordres afin d’éviter des erreurs coûteuses en termes de frais de transaction.&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;définition-et-principes&#34;&gt;Définition et principes&lt;/h4&gt;
+
+&lt;p&gt;Les &lt;a href=&#34;https://investastuces.com/glossaire/#ordredebourse&#34;&gt;ordres de Bourse&lt;/a&gt; sont des instructions communiquées par un investisseur ou par un intermédiaire financier (comme un courtier) qui, en fonction des informations reçues et de la situation du compte du client, procède à l’achat, ou à la vente d’un actif sur une place boursière.&lt;/p&gt;
+
+&lt;p&gt;Rappelons que l’exécution d’un ordre repose sur deux principes :&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;le prix : un ordre d’achat avec le prix le plus élevé est exécuté en priorité alors qu’un ordre de vente au prix le plus bas est exécuté avant les autres ordres formulés à un prix plus élevé;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;l’ordre d’arrivée : les ordres suivent la règle « premier arrivé, premier servi »!&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Par ailleurs, &lt;strong&gt;un ordre en Bourse doit indiquer les éléments suivants&lt;/strong&gt;:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;le type de la transaction ou le sens de l’opération (achat ou vente);&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;l’identité de la valeur (un code ISIN ou le nom du produit financier);&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;le nombre de titres à transiger;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;le type d’ordre (voir plus bas);&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;la durée de validité de l’ordre;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;les conditions de prix.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Les ordres sont répertoriés dans un &lt;strong&gt;carnet d’ordres&lt;/strong&gt;. Tous les ordres d&amp;rsquo;achat et de vente d&amp;rsquo;un titre y sont répertoriés et ordonnés.
+A noter que les acheteurs et les vendeurs ne peuvent généralement voir que les 5 meilleures offres et les 5 meilleures demandes sur un tableau séparé en deux colonnes (achat et vente), qui comprend la quantité et le prix des ordres.&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;les-principaux-types-d-ordre&#34;&gt;Les principaux types d’ordre&lt;/h4&gt;
+
+&lt;p&gt;Les principes étant posés, voici les principaux type d’ordre qu’il vous faut connaître avant de vous lancer:&lt;/p&gt;
+
+&lt;ol start=&#34;1&#34;&gt;
+  &lt;li&gt;&lt;b&gt;Ordre au marché&lt;/b&gt; : c’est un ordre d’acheter ou de vendre au meilleur prix disponible. En cours de séance, l’ordre peut être exécuté à plusieurs prix pour couvrir la quantité demandée ou offerte. Par conséquent, l&#39;ordre au marché est prioritaire sur tous les autres ordres car il privilégie la rapidité de l&#39;exécution totale des quantités demandées peu importe les conditions de prix affichées.  
+L’inconvénient de ce type d’ordre est de ne pas maîtriser le prix.  
+&lt;br&gt;
+&lt;br&gt;
+ &lt;b&gt;Exemple&lt;/b&gt;: Vous passez un ordre d&#39;achat de 100 actions. Dans le carnet d&#39;ordres, les meilleures limites des vendeurs sont :  
+ &lt;ul&gt;
+ &lt;li&gt;50 titres à 100 euros&lt;/li&gt;
+ &lt;li&gt;200 titres à 102 euros.&lt;/li&gt;
+ &lt;/ul&gt;
+ Votre ordre sera exécuté instantanément et vous achèterez vos 100 actions, dont 50 à 100€ et 50 à 102 euros.
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;ol start=&#34;2&#34;&gt;
+  &lt;li&gt;&lt;b&gt;Ordre à la meilleure limite&lt;/b&gt;  (anciennement &#34;au prix du marché&#34;) :  Cet ordre équivaut à un &lt;i&gt;ordre à cours limité&lt;/i&gt; à la meilleure offre pour un ordre d&#39;achat ou à la meilleure demande pour un ordre de vente. Cet ordre est exécuté juste après les &lt;i&gt;ordres au marché&lt;/i&gt;. 
+Lorsque cet ordre est passé, si celui-ci peut être exécuté en totalité sur un seul cours, il le sera immédiatement (1ère ligne du carnet d&#39;ordres à l&#39;heure de l&#39;introduction). Par contre, si le nombre de titres présent dans le carnet d’ordres n&#39;est pas suffisant à un seul niveau de cours, l&#39;&lt;i&gt;ordre à la meilleure limite&lt;/i&gt; se changera en un &lt;i&gt;ordre à cours limité&lt;/i&gt; au prix des premières actions achetées.  
+L&#39;&lt;i&gt;ordre à la meilleure limite&lt;/i&gt; privilégie donc le cours d&#39;exécution à la meilleure offre (pour un achat) ou à la meilleure demande (pour une vente).   
+L’inconvénient de ce type d’ordre est de ne pas maîtriser totalement le prix.  
+&lt;br&gt;
+&lt;br&gt;
+&lt;b&gt;Exemple&lt;/b&gt;: Vous passez un &lt;i&gt;ordre à la meilleure limite&lt;/i&gt; à 09h10 pour une quantité de 100 actions. Si la meilleure offre est de 100 euros pour 90 actions, l&#39;ordre sera exécuté à 100 euros pour les 90 actions, les 10 restantes ne pourront être acquises que si de nouveau un vendeur propose 100 euros pour cette action (&lt;i&gt;ordre à cours limité&lt;/i&gt; voir le point 3).  
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;ol start=&#34;3&#34;&gt;
+  &lt;li&gt;&lt;b&gt; Ordre à cours limité&lt;/b&gt; : ordre dans lequel l’investisseur fixe le cours auquel il veut acheter ou vendre le titre. L’ordre sera exécuté pour le moins partiellement si le cours du titre est atteint (ou “touché”) pendant la période de validité de cet ordre.
+L&#39;&lt;i&gt;ordre à cours limité&lt;/i&gt; permet de fixer et maîtriser un prix d&#39;exécution (prix maximum à l&#39;achat et prix minimum à la vente). L&#39;exécution peut être partielle ou totale en fonction de la quantité disponible dans le carnet d&#39;ordres. L&#39;éventuelle quantité restante sera alors inscrite au carnet d&#39;ordres à la limite initiale. 
+&lt;br&gt;
+&lt;br&gt;
+&lt;b&gt;Exemple&lt;/b&gt;: Vous passez un ordre à l’achat &lt;i&gt;à cours limité&lt;/i&gt; de 100 euros. Tant que le cours de l&#39;action est supérieur à 100 euros, il n’est pas exécuté. Dès qu’un vendeur propose l’action à 100 euros ou moins, l’ordre est partiellement ou totalement exécuté.
+Pour un ordre à la vente à cours limité, le raisonnement inverse s’applique.
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;ol start=&#34;4&#34;&gt;
+  &lt;li&gt;&lt;b&gt; Ordre à seuil de déclenchement&lt;/b&gt; : pour un ordre d’achat le prix est fixé par l’investisseur et l’ordre ne sera exécuté que si le cours de Bourse franchit cette limite. À l’inverse, pour un ordre de vente, il ne sera exécuté que si le titre baisse en dessous de la limite indiquée. Si le seuil est atteint, cet ordre reprend les mêmes caractéristiques qu’un ordre au prix du marché (voir point 1). Cet ordre est aussi appelé  &#34;ordre stop&#34;.
+&lt;br&gt;
+&lt;br&gt;
+&lt;b&gt;Exemple&lt;/b&gt;: vous passez un ordre de vente pour une quantité de 650 titres à partir de 100 €. Le cours de la valeur baisse et le seuil de 100 € est “touché” mais pour seulement 300 titres. L’ordre est automatiquement activé et transformé en ordre de vente “au marché” et est donc exécuté dans un premier temps pour 300 titres à 100€. La quantité restante sera confrontée aux autres ordres placés dans le carnet.
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;br&gt;
+&lt;table class=&#34;hoverTable&#34;&gt;
+&lt;tr&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt; &lt;img src=&#34;/img/Investastuces-lightbulb-singular.png&#34; align=&#34;center&#34; style=&#34;width:100px;&#34; hspace=&#34;10&#34;/&gt;
+&lt;td&gt;  &lt;b&gt;Astuce&lt;/b&gt;: Utilisez cet ordre à la vente pour vous protéger d&amp;rsquo;un retournement de tendance et pour vous fixer un seuil acceptable de perte.
+Le seuil du prix d&amp;rsquo;un ordre de vente doit toujours se situer en dessous du cours actuel du titre.
+&lt;br&gt;
+Utilisez cet ordre à l&amp;rsquo;achat pour profiter d&amp;rsquo;une tendance haussière, par exemple si vous analysez qu&amp;rsquo;à partir d&amp;rsquo;un certain cours le titre continuera sa tendance à la hausse.
+Le seuil du prix d&amp;rsquo;un ordre d&amp;rsquo;achat doit toujours se situer au dessus du cours actuel de l&amp;rsquo;action.
+&lt;/tr&gt;
+&lt;/table&gt;
+&lt;br&gt;&lt;/p&gt;
+
+&lt;ol start=&#34;5&#34;&gt;
+  &lt;li&gt;&lt;b&gt; Ordre à plage de déclenchement&lt;/b&gt; : ordre qui reprend les mêmes caractéristiques que l’&lt;i&gt;ordre au seuil de déclenchement&lt;/i&gt;, mais l&#39;ordre qui est déclenché au niveau du seuil est un ordre “limité”. En plus d’un seuil à ne pas dépasser, l’investisseur fixe une limite au-delà de laquelle l’ordre n’est plus exécuté (d’où la plage de déclenchement). Il faut donc fixer au préalable deux bornes, un seuil et une limite. Si le seuil est touché un ordre d&#39;achat ou de vente est déclenché jusqu&#39;à la limite de cours fixée. 
+&lt;br&gt;
+&lt;br&gt;
+&lt;b&gt;Exemple&lt;/b&gt; : vous passez un ordre d’achat si l&#39;action dépasse les 100€ et ce jusqu&#39;à 103€. Cela signifie qu&#39;au-delà de 103€ vous n&#39;êtes plus acheteur.
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;a-retenir&#34;&gt;A retenir:&lt;/h4&gt;
+
+&lt;p&gt;Comprendre le principe et les conséquences des différents types d’ordre de Bourse est essentiel sur plusieurs points. Cela permet:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;b&gt;d’éviter des erreurs coûteuses en termes de frais de transaction; &lt;/b&gt;&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;d’affiner sa stratégie d’investissement en Bourse (souhait d’acheter une action à tout prix ou de l’acheter à un prix fixé au préalable);&lt;/b&gt;&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;d’éviter de subir des pertes ou de profiter d’une séance haussière de la Bourse&amp;hellip;&lt;/b&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Notons enfin qu’à côté des 5 principaux types d’ordre définies ci-dessus il existe également des ordres dit “complexes ” appelés également “stratégiques” ou “tactiques”.&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;h5 id=&#34;références&#34;&gt;Références&lt;/h5&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Pour plus d’informations sur ce type d’ordre je vous invite à lire &lt;a href=&#34;https://www.bfmtv.com/pratique-finances-perso/bourse-quels-sont-les-ordres-tactiques-1494268.html&#34;&gt;cet article&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Sitemap</title>
@@ -555,7 +689,7 @@ Votre pression artérielle vous remerciera !!
 &lt;li&gt;&lt;strong&gt;Investir en Bourse peut s’avérer complexe: il faut donc miser sur des entreprises que vous connaissez et que vous comprenez.&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;strong&gt;Enfin dernier conseil avant de franchir le pas: vous devez comprendre le jargon des ordres de Bourse avant d’acheter votre première action.&lt;/strong&gt; En effet, il est important de comprendre les différents types d’ordres disponibles afin d’éviter des erreurs coûteuses en termes de frais de transaction. Je vous propose donc un petit article avec des exemples explicatifs ici.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Enfin dernier conseil avant de franchir le pas: vous devez comprendre le jargon des ordres de Bourse avant d’acheter votre première action.&lt;/strong&gt; En effet, il est important de comprendre les différents types d’ordres disponibles afin d’éviter des erreurs coûteuses en termes de frais de transaction. Je vous propose donc un petit article avec des exemples explicatifs &lt;a href=&#34;https://investastuces.com/blog/2019/les-ordres-de-bourse&#34;&gt;ici&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -1004,8 +1138,8 @@ Document réglementé par le droit bancaire et qui précise les obligations du p
 &lt;li&gt;&lt;p&gt;&lt;strong&gt;OPCVM (Organisme de Placement Collectif en Valeurs Mobilières)&lt;/strong&gt;  &lt;a name=&#34;OPCVM&#34;&gt;&lt;/a&gt;&lt;br /&gt;
 Structures qui permettent la gestion collective de fonds. Les fonds qui sont à leur disposition sont investis dans des valeurs mobilières. Ces valeurs mobilières donnent le même droit que des actions à son possesseur, c’est à dire qu’ils donnent une part du capital de la société émettrice.&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Ordre de Bourse&lt;/strong&gt;&lt;br /&gt;
-Les ordres de bourse sont des instructions communiquées par un investisseur ou par un intermédiaire financier (comme un courtier) qui, en fonction des informations reçues et de la situation du compte du client, procède à l’achat, ou à la vente d’un actif sur une place boursière. Un ordre de bourse doit comporter un certain nombre d&amp;rsquo;informations nécessaires et obligatoires à sa bonne exécution (le sens de l&amp;rsquo;opération, le nom de la valeur ou le code ISIN de la valeur, la quantité de titres&amp;hellip;).&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Ordre de Bourse&lt;/strong&gt; &lt;a name=&#34;ordredebourse&#34;&gt;&lt;/a&gt;&lt;br /&gt;
+Les ordres de bourse sont des instructions communiquées par un investisseur ou par un intermédiaire financier (comme un courtier) qui, en fonction des informations reçues et de la situation du compte du client, procède à l’achat, ou à la vente d’un actif sur une place boursière. Un ordre de bourse doit comporter un certain nombre d&amp;rsquo;informations nécessaires et obligatoires à sa bonne exécution (le sens de l&amp;rsquo;opération, le nom de la valeur ou le code ISIN de la valeur, la quantité de titres&amp;hellip;).  Vous trouverez les principaux types d’ordre de Bourse dans &lt;a href=&#34;https://investastuces.com/blog/2019/les-ordres-de-bourse&#34;&gt;cet article&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&#34;p-a-name-p-a&#34;&gt;P &lt;a name=&#34;P&#34;&gt;&lt;/a&gt;&lt;/h2&gt;
