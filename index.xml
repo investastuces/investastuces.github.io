@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Invest Astuces</title>
-    <link>/</link>
+    <link>https://investastuces.com/blog/</link>
     <description>Recent content on Invest Astuces</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Wed, 13 Mar 2019 00:00:00 -0500</lastBuildDate>
