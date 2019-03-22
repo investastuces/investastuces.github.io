@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Miscs on Invest Astuces</title>
-    <link>/misc/</link>
+    <link>https://investastuces.com/misc/</link>
     <description>Recent content in Miscs on Invest Astuces</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Wed, 13 Mar 2019 00:00:00 -0500</lastBuildDate>
     
-	<atom:link href="/misc/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://investastuces.com/misc/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Sitemap</title>
-      <link>/misc/sitemap/</link>
+      <link>https://investastuces.com/misc/sitemap/</link>
       <pubDate>Wed, 13 Mar 2019 00:00:00 -0500</pubDate>
       
-      <guid>/misc/sitemap/</guid>
+      <guid>https://investastuces.com/misc/sitemap/</guid>
       <description> Accueil / Homepage Blog  Bourse  Les ordres de Bourse Mes 10 règles d’or pour débuter en Bourse  Finance  Le statut « US persons »: des contraintes pour vos finances personnelles  Immobilier  Le TAEG : le précieux outil de comparaison des offres de crédit   Simulateurs / Simulators Glossaire / Glossary A propos / About Contact Mentions l&amp;eacute;gales  </description>
     </item>
     
     <item>
       <title>Mentions legales</title>
-      <link>/misc/mentions-legales/</link>
+      <link>https://investastuces.com/misc/mentions-legales/</link>
       <pubDate>Tue, 26 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>/misc/mentions-legales/</guid>
+      <guid>https://investastuces.com/misc/mentions-legales/</guid>
       <description>Directeur de la Publication : Gr&amp;eacute;goire Branger
 Email : contact@investastuces.com
 Raison Sociale de l&amp;rsquo;H&amp;eacute;bergeur : Ce site internet est h&amp;eacute;berg&amp;eacute; par la soci&amp;eacute;t&amp;eacute; GitHub. Pour contacter cet h&amp;eacute;bergeur :
