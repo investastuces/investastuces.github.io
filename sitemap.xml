@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/blog/2019/taeg-precieux-outil-de-comparaison/</loc>
+    <lastmod>2019-03-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/misc/sitemap/</loc>
     <lastmod>2019-03-13T00:00:00-05:00</lastmod>
   </url>
@@ -15,11 +20,6 @@
   <url>
     <loc>/blog/2019/statut-us-persons-contraintes-pour-finances-personnelles/</loc>
     <lastmod>2019-03-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/blog/2019/taeg-precieux-outil-de-comparaison/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -44,7 +44,7 @@
   
   <url>
     <loc>/blog/</loc>
-    <lastmod>2019-03-13T00:00:00+00:00</lastmod>
+    <lastmod>2019-03-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -72,7 +72,7 @@
   
   <url>
     <loc>/tags/cr%C3%A9dit/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+    <lastmod>2019-03-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -96,7 +96,7 @@
   
   <url>
     <loc>/tags/fran%C3%A7ais/</loc>
-    <lastmod>2019-03-13T00:00:00+00:00</lastmod>
+    <lastmod>2019-03-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -106,13 +106,13 @@
   
   <url>
     <loc>/categories/immobilier-~-real-estate/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+    <lastmod>2019-03-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/</loc>
-    <lastmod>2019-03-13T00:00:00-05:00</lastmod>
+    <lastmod>2019-03-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -124,7 +124,7 @@
   
   <url>
     <loc>/tags/pr%C3%AAt/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+    <lastmod>2019-03-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -136,7 +136,7 @@
   
   <url>
     <loc>/tags/simulateurs/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+    <lastmod>2019-03-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -146,7 +146,7 @@
   
   <url>
     <loc>/tags/taeg/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+    <lastmod>2019-03-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
