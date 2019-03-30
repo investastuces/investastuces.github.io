@@ -2,119 +2,119 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Invest Astuces</title>
-    <link>https://investastuces.com/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on Invest Astuces</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Wed, 13 Mar 2019 16:01:00 +0000</lastBuildDate>
     
-	<atom:link href="https://investastuces.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Actions</title>
-      <link>https://investastuces.com/tags/actions/</link>
+      <link>/tags/actions/</link>
       <pubDate>Wed, 13 Mar 2019 16:01:00 +0000</pubDate>
       
-      <guid>https://investastuces.com/tags/actions/</guid>
+      <guid>/tags/actions/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bourse</title>
-      <link>https://investastuces.com/tags/bourse/</link>
+      <link>/tags/bourse/</link>
       <pubDate>Wed, 13 Mar 2019 16:01:00 +0000</pubDate>
       
-      <guid>https://investastuces.com/tags/bourse/</guid>
+      <guid>/tags/bourse/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Crédit</title>
-      <link>https://investastuces.com/tags/cr%C3%A9dit/</link>
+      <link>/tags/cr%C3%A9dit/</link>
       <pubDate>Mon, 25 Mar 2019 15:58:00 +0000</pubDate>
       
-      <guid>https://investastuces.com/tags/cr%C3%A9dit/</guid>
+      <guid>/tags/cr%C3%A9dit/</guid>
       <description></description>
     </item>
     
     <item>
       <title>English</title>
-      <link>https://investastuces.com/tags/english/</link>
+      <link>/tags/english/</link>
       <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://investastuces.com/tags/english/</guid>
+      <guid>/tags/english/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Expat</title>
-      <link>https://investastuces.com/tags/expat/</link>
+      <link>/tags/expat/</link>
       <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://investastuces.com/tags/expat/</guid>
+      <guid>/tags/expat/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fatca</title>
-      <link>https://investastuces.com/tags/fatca/</link>
+      <link>/tags/fatca/</link>
       <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://investastuces.com/tags/fatca/</guid>
+      <guid>/tags/fatca/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Français</title>
-      <link>https://investastuces.com/tags/fran%C3%A7ais/</link>
+      <link>/tags/fran%C3%A7ais/</link>
       <pubDate>Mon, 25 Mar 2019 15:58:00 +0000</pubDate>
       
-      <guid>https://investastuces.com/tags/fran%C3%A7ais/</guid>
+      <guid>/tags/fran%C3%A7ais/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Prêt</title>
-      <link>https://investastuces.com/tags/pr%C3%AAt/</link>
+      <link>/tags/pr%C3%AAt/</link>
       <pubDate>Mon, 25 Mar 2019 15:58:00 +0000</pubDate>
       
-      <guid>https://investastuces.com/tags/pr%C3%AAt/</guid>
+      <guid>/tags/pr%C3%AAt/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Regles Dor</title>
-      <link>https://investastuces.com/tags/regles-dor/</link>
+      <link>/tags/regles-dor/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://investastuces.com/tags/regles-dor/</guid>
+      <guid>/tags/regles-dor/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Simulateurs</title>
-      <link>https://investastuces.com/tags/simulateurs/</link>
+      <link>/tags/simulateurs/</link>
       <pubDate>Thu, 21 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://investastuces.com/tags/simulateurs/</guid>
+      <guid>/tags/simulateurs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Taeg</title>
-      <link>https://investastuces.com/tags/taeg/</link>
+      <link>/tags/taeg/</link>
       <pubDate>Thu, 21 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://investastuces.com/tags/taeg/</guid>
+      <guid>/tags/taeg/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Usa</title>
-      <link>https://investastuces.com/tags/usa/</link>
+      <link>/tags/usa/</link>
       <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://investastuces.com/tags/usa/</guid>
+      <guid>/tags/usa/</guid>
       <description></description>
     </item>
     
