@@ -3,13 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://investastuces.com/blog/2019/renego-vs-rachat-credit/</loc>
-    <lastmod>2019-03-25T15:58:00+00:00</lastmod>
+    <loc>https://investastuces.com/misc/sitemap/</loc>
+    <lastmod>2019-03-29T00:00:00-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://investastuces.com/misc/sitemap/</loc>
-    <lastmod>2019-03-25T00:00:00-05:00</lastmod>
+    <loc>https://investastuces.com/blog/2019/us-person-status-financial-restrictions-american-expats/</loc>
+    <lastmod>2019-03-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://investastuces.com/blog/2019/renego-vs-rachat-credit/</loc>
+    <lastmod>2019-03-25T15:58:00+00:00</lastmod>
   </url>
   
   <url>
@@ -49,7 +54,7 @@
   
   <url>
     <loc>https://investastuces.com/blog/</loc>
-    <lastmod>2019-03-25T15:58:00+00:00</lastmod>
+    <lastmod>2019-03-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -82,20 +87,26 @@
   </url>
   
   <url>
+    <loc>https://investastuces.com/tags/english/</loc>
+    <lastmod>2019-03-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://investastuces.com/tags/expat/</loc>
-    <lastmod>2019-03-12T00:00:00+00:00</lastmod>
+    <lastmod>2019-03-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://investastuces.com/tags/fatca/</loc>
-    <lastmod>2019-03-12T00:00:00+00:00</lastmod>
+    <lastmod>2019-03-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://investastuces.com/categories/finance-perso-~-personal-finance/</loc>
-    <lastmod>2019-03-12T00:00:00+00:00</lastmod>
+    <lastmod>2019-03-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -117,13 +128,13 @@
   
   <url>
     <loc>https://investastuces.com/</loc>
-    <lastmod>2019-03-25T15:58:00+00:00</lastmod>
+    <lastmod>2019-03-29T00:00:00-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://investastuces.com/misc/</loc>
-    <lastmod>2019-03-25T00:00:00-05:00</lastmod>
+    <lastmod>2019-03-29T00:00:00-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -163,7 +174,7 @@
   
   <url>
     <loc>https://investastuces.com/tags/usa/</loc>
-    <lastmod>2019-03-12T00:00:00+00:00</lastmod>
+    <lastmod>2019-03-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
