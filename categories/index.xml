@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Invest Astuces</title>
-    <link>/categories/</link>
+    <link>https://investastuces.com/categories/</link>
     <description>Recent content in Categories on Invest Astuces</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Wed, 13 Mar 2019 16:01:00 +0000</lastBuildDate>
     
-	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://investastuces.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Bourse ~ Stocks</title>
-      <link>/categories/bourse-~-stocks/</link>
+      <link>https://investastuces.com/categories/bourse-~-stocks/</link>
       <pubDate>Wed, 13 Mar 2019 16:01:00 +0000</pubDate>
       
-      <guid>/categories/bourse-~-stocks/</guid>
+      <guid>https://investastuces.com/categories/bourse-~-stocks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Finance Perso ~ Personal Finance</title>
-      <link>/categories/finance-perso-~-personal-finance/</link>
+      <link>https://investastuces.com/categories/finance-perso-~-personal-finance/</link>
       <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>/categories/finance-perso-~-personal-finance/</guid>
+      <guid>https://investastuces.com/categories/finance-perso-~-personal-finance/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Immobilier ~ Real Estate</title>
-      <link>/categories/immobilier-~-real-estate/</link>
+      <link>https://investastuces.com/categories/immobilier-~-real-estate/</link>
       <pubDate>Mon, 25 Mar 2019 15:58:00 +0000</pubDate>
       
-      <guid>/categories/immobilier-~-real-estate/</guid>
+      <guid>https://investastuces.com/categories/immobilier-~-real-estate/</guid>
       <description></description>
     </item>
     

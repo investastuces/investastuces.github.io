@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Actions on Invest Astuces</title>
-    <link>/tags/actions/</link>
+    <link>https://investastuces.com/tags/actions/</link>
     <description>Recent content in Actions on Invest Astuces</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Wed, 13 Mar 2019 16:01:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/actions/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://investastuces.com/tags/actions/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Les ordres de Bourse</title>
-      <link>/blog/2019/les-ordres-de-bourse/</link>
+      <link>https://investastuces.com/blog/2019/les-ordres-de-bourse/</link>
       <pubDate>Wed, 13 Mar 2019 16:01:00 +0000</pubDate>
       
-      <guid>/blog/2019/les-ordres-de-bourse/</guid>
+      <guid>https://investastuces.com/blog/2019/les-ordres-de-bourse/</guid>
       <description>Lorsque vous commencez à investir en Bourse, il arrive fréquemment que vous n’arriviez pas à vendre la position ou acquérir les titres que vous souhaitez. Il est donc important de comprendre les différents types d’ordres afin d’éviter des erreurs coûteuses en termes de frais de transaction.
 
 Définition et principes Les ordres de Bourse sont des instructions communiquées par un investisseur ou par un intermédiaire financier (comme un courtier) qui, en fonction des informations reçues et de la situation du compte du client, procède à l’achat, ou à la vente d’un actif sur une place boursière.</description>
@@ -23,10 +23,10 @@ Définition et principes Les ordres de Bourse sont des instructions communiquée
     
     <item>
       <title>Mes 10 règles d’or pour débuter en Bourse</title>
-      <link>/blog/2019/10-regles-dor-pour-debuter-en-bourse/</link>
+      <link>https://investastuces.com/blog/2019/10-regles-dor-pour-debuter-en-bourse/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2019/10-regles-dor-pour-debuter-en-bourse/</guid>
+      <guid>https://investastuces.com/blog/2019/10-regles-dor-pour-debuter-en-bourse/</guid>
       <description>La Bourse fascine autant qu’elle fait peur. Si pour quelques uns, elle est synonyme d’opportunité et de profit potentiel important, pour beaucoup la Bourse reste un placement dangereux et exclusivement réservé aux experts en investissement.
 Qui n’a pas en tête le désastre de l’action Eurotunnel à la fin des années 90? Pour rappel, les actions Eurotunnel qui avaient été présentées comme un placement de “bon père de famille”, ont été introduites en 1987 au cours de 8.</description>
     </item>
