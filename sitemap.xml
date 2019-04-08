@@ -3,13 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://investastuces.com/blog/2019/us-person-status-financial-restrictions-american-expats/</loc>
-    <lastmod>2019-03-29T19:00:00+00:00</lastmod>
+    <loc>https://investastuces.com/blog/2019/primer-on-french-stock-market-orders/</loc>
+    <lastmod>2019-04-08T17:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://investastuces.com/misc/sitemap/</loc>
-    <lastmod>2019-03-29T00:00:00-05:00</lastmod>
+    <lastmod>2019-04-08T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://investastuces.com/blog/2019/us-person-status-financial-restrictions-american-expats/</loc>
+    <lastmod>2019-03-29T19:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -54,7 +59,7 @@
   
   <url>
     <loc>https://investastuces.com/blog/</loc>
-    <lastmod>2019-03-29T19:00:00+00:00</lastmod>
+    <lastmod>2019-04-08T17:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -66,13 +71,13 @@
   
   <url>
     <loc>https://investastuces.com/categories/bourse-~-stocks/</loc>
-    <lastmod>2019-03-13T16:01:00+00:00</lastmod>
+    <lastmod>2019-04-08T17:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://investastuces.com/categories/</loc>
-    <lastmod>2019-03-13T16:01:00+00:00</lastmod>
+    <lastmod>2019-04-08T17:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -88,7 +93,7 @@
   
   <url>
     <loc>https://investastuces.com/tags/english/</loc>
-    <lastmod>2019-03-29T19:00:00+00:00</lastmod>
+    <lastmod>2019-04-08T17:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -111,6 +116,12 @@
   </url>
   
   <url>
+    <loc>https://investastuces.com/tags/france/</loc>
+    <lastmod>2019-04-08T17:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://investastuces.com/tags/fran%C3%A7ais/</loc>
     <lastmod>2019-03-25T15:58:00+00:00</lastmod>
     <priority>0</priority>
@@ -128,13 +139,13 @@
   
   <url>
     <loc>https://investastuces.com/</loc>
-    <lastmod>2019-03-29T19:00:00+00:00</lastmod>
+    <lastmod>2019-04-08T17:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://investastuces.com/misc/</loc>
-    <lastmod>2019-03-29T00:00:00-05:00</lastmod>
+    <lastmod>2019-04-08T00:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -158,6 +169,12 @@
   
   <url>
     <loc>https://investastuces.com/simulateurs/</loc>
+  </url>
+  
+  <url>
+    <loc>https://investastuces.com/tags/stocks/</loc>
+    <lastmod>2019-04-08T17:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>

@@ -5,11 +5,174 @@
     <link>https://investastuces.com/blog/</link>
     <description>Recent content on Invest Astuces</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 29 Mar 2019 19:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Apr 2019 17:00:00 +0000</lastBuildDate>
     
        <atom:link href="https://investastuces.com/index.xml" rel="self" type="application/rss+xml" />
        
     
+    
+    <item>
+      <title>A primer on French stock market orders</title>
+      <link>https://investastuces.com/blog/2019/primer-on-french-stock-market-orders/</link>
+      <pubDate>Mon, 08 Apr 2019 17:00:00 +0000</pubDate>
+      
+      <guid>https://investastuces.com/blog/2019/primer-on-french-stock-market-orders/</guid>
+      <description>
+
+&lt;p&gt;&lt;em&gt;Note: This article discusses the French stock market and is therefore primarily intended for English speakers living in France.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;When you invest in the stock market in France, there are a variety of way to purchase or sell a security on the stock exchange depending on your desired price point as well as your buying or selling strategy. Placing stock market orders usually incurs transaction costs – so if you choose an order that is not adapted to your needs, it can quickly turn into an expensive mistake! It is therefore important to understand the various types of stock market orders available to you in France.&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;definition-and-principles&#34;&gt;Definition and principles&lt;/h4&gt;
+
+&lt;p&gt;In France, stock market orders are instructions given by an investor or a financial intermediary, such as a broker; based on the information transmitted by the customer and the status of his/her account, this intermediary proceeds with the purchase or sale of a security on a stock exchange.&lt;/p&gt;
+
+&lt;p&gt;The execution of an order is based on two factors:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;the &lt;strong&gt;price&lt;/strong&gt;: purchase orders with higher prices are executed as a priority, while sell orders at lower prices are executed first;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;the &lt;strong&gt;order of arrival&lt;/strong&gt;: orders generally follow the rule of &amp;ldquo;first come, first served&amp;rdquo;!&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;In addition, &lt;strong&gt;an order on the stock exchange must specify the following information&lt;/strong&gt;:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;type or direction of the transaction (that is, purchase or sale);&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;identity of the value (an &lt;a href=&#34;https://investastuces.com/glossaire/#ISIN&#34;&gt;ISIN&lt;/a&gt;) code or the name of the financial product);&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;number of securities to be traded;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;type of order (see below);&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;period of validity of the order;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;price conditions.&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Orders are listed in an &lt;a href=&#34;https://investastuces.com/glossaire/#orderbook&#34;&gt;order book&lt;/a&gt;, where all buy and sell orders for a security are listed and sorted by price. Note that buyers and sellers can usually only see the top 5 offers and the top 5 requests in a separate two-column table (buy and sell), which includes the quantity and price of orders.
+&lt;br&gt;
+&lt;br&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;the-main-types-of-orders&#34;&gt;The main types of orders&lt;/h4&gt;
+
+&lt;p&gt;Now that we have the main definitions in place, let’s discuss the 5 primary types of order you should know:&lt;/p&gt;
+
+&lt;p&gt;&lt;ol&gt;
+&lt;li&gt; &lt;b&gt;Market order&lt;/b&gt; (&lt;i&gt;Ordre au marché&lt;/i&gt;): This is an order to buy or sell at the best available price. During the trading session, this type of order can be executed at several price points to cover the quantity requested or offered.
+&lt;br&gt;
+This type of market order therefore has priority over all other orders, because it favors a quick execution of the requested/offered quantities, regardless of the price conditions. The disadvantage of a market order is thus a lack of control over the price.
+&lt;br&gt;
+&lt;br&gt;
+&lt;b&gt;Example&lt;/b&gt;: You place a purchase order of 100 shares. In the order book, the best sellers&amp;rsquo; limits are:
+&lt;ul&gt;
+&lt;li&gt; 50 stocks at 100 €. &lt;/li&gt;
+&lt;li&gt;200 stocks at 102 € &lt;/li&gt;
+&lt;/ul&gt;
+Your order will thus be instantaneously executed, and you will buy your requested 100 shares, including 50 at a price of 100 € and 50 at a price of 102 €.
+&lt;br&gt;
+&lt;br&gt;
+&lt;li&gt; &lt;b&gt;Best limit order, previously known in France as &amp;ldquo;at market price&amp;rdquo;&lt;/b&gt; (&lt;i&gt;Ordre à la meilleure limite&lt;/i&gt;): This order corresponds to limiting the order to the best bid for a buy or sell order. In terms of priority, a best limit order is executed just after the market orders.
+&lt;br&gt;
+When such an order is placed, it is executed immediately, if it can be done so entirely at a single price (that is, the 1st line of the order book at the start of trading). On the other hand, if the number of available securities at a single price level in the order book is not sufficient, the best limit order will change into a limit order (see below) at the price of the first shares purchased.
+&lt;br&gt;
+The best limit order therefore favors the execution price at the best bid for a purchase or a sale. The disadvantage of this type of order, however, is the lack of full control over the price.
+&lt;br&gt;
+&lt;br&gt;
+&lt;b&gt;Example&lt;/b&gt;: You place an order at the best limit at 9:10am for a quantity of 100 shares. If the best bid is 100 € for 90 shares, the order will be executed at 100 € for 90 shares; the remaining 10 shares can then only be acquired if the seller offers to sell them for the same price of 100 € (a limit order, see below).
+&lt;/li&gt;
+&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;li&gt; &lt;b&gt;Limit order&lt;/b&gt; (&lt;i&gt;Ordre à cours limité&lt;/i&gt;): This is an order in which the investor sets the price at which he wants to buy or sell the security. The order will be executed, at least partially, if the price of the security is reached during the validity period of the order.
+&lt;br&gt;
+The limit order is used to set and control an execution price (maximum purchase price and minimum sale price). The execution can be partial or total depending on the quantity available in the order book; any remaining quantity will then be entered in the order book at the initial limit.
+&lt;br&gt;
+&lt;br&gt;
+&lt;b&gt;Example&lt;/b&gt;: you place a limit purchase order at a price of 100 €. As long as the share price is above 100 €, the order will not be executed. As soon as a seller offers the security at 100 € or less, the order will be partially or fully executed. For a limit sale order, the inverse reasoning applies.
+&lt;/li&gt;
+&lt;br&gt;
+&lt;li&gt; &lt;b&gt;Stop order&lt;/b&gt; (&lt;i&gt;Ordre à seuil de déclenchement&lt;/i&gt;): For a stop purchase order, the price is set by the investor and the order is executed only if the share price crosses this limit. Conversely, a stop sell order will only be executed if the security price falls below the specified limit. If the so-called &amp;ldquo;trigger threshold&amp;rdquo;&amp;rdquo; is reached, this order has the same characteristics as a market order (see order type 1 above).
+&lt;br&gt;
+&lt;br&gt;
+&lt;b&gt;Example&lt;/b&gt;: you place a sell order for 650 securities at 100 €. The price of the security drops and the threshold of 100 € is accepted, but only for 300 stocks. The order is automatically activated and transformed into a market order of sale and is therefore executed initially for 300 stocks at 100 €. The remaining quantity of 350 shares will then be evaluated with respect to the order book.
+&lt;br&gt;
+&lt;br&gt;
+&lt;table class=&#34;hoverTable&#34;&gt;
+&lt;tr&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt; &lt;img src=&#34;https://investastuces.com/img/Investastuces-lightbulb-plural.png&#34; align=&#34;center&#34; style=&#34;width:100px;&#34; hspace=&#34;10&#34;/&gt;
+&lt;td&gt;  &lt;b&gt;Tips:&lt;/b&gt;
+&lt;br&gt;
+&lt;ul&gt;
+&lt;li&gt; Use a stop order on sale to protect yourself from an economic downturn and set an acceptable loss threshold. &lt;b&gt;The price threshold of a stop sell order must always be below the current price of the security.&lt;/b&gt; &lt;/li&gt;
+&lt;li&gt;Use a stop purchase order to take advantage of an uptrend, for example if you think that a stock will continue its upward trend from a certain price. &lt;b&gt;The price threshold of a stop purchase order must always be above the current share price.&lt;/b&gt; &lt;/li&gt;
+&lt;/ul&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+&lt;/li&gt;
+&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;li&gt; &lt;b&gt;Stop-limit order&lt;/b&gt; (&lt;i&gt;Ordre à plage de déclenchement&lt;/i&gt;): This order has the same characteristics as a stop order at a given &amp;ldquo;trigger threshold&amp;rdquo;, but the triggered order is &amp;ldquo;limited&amp;rdquo; at a given value. That is, in addition to a threshold not to be exceeded, the investor sets a limit beyond which the order will no longer be executed (hence the so-called &amp;ldquo;trigger range&amp;rdquo;&amp;ldquo;).
+&lt;br&gt;
+It is therefore necessary to set both a threshold and a limit for this type of order. If the threshold is reached, a buy or sell order is triggered up to the set price limit.
+&lt;br&gt;
+&lt;br&gt;
+&lt;b&gt;Example&lt;/b&gt;: you place a purchase order if the share exceeds 100 € (threshold) up to 103 € (limit). This means that beyond 103 €, you are no longer interested in buying shares.
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;br&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;remember&#34;&gt;Remember:&lt;/h4&gt;
+
+&lt;p&gt;Understanding the principles and implications of different types of market orders is essential in many ways. In particular, this allows you to:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;avoid costly mistakes in transaction costs for market orders that are not adapted to your needs;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;refine your investment strategy based on the behavior of the stock market (for example, if you wish to buy a share at any price or rather at a price set in advance);&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;avoid incurring losses, and more fully take advantage of a bull market&amp;hellip;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Finally, note that in addition to the 5 main order types defined above, in France there are also &amp;ldquo;complex&amp;rdquo; orders, also called &amp;ldquo;strategic&amp;rdquo; or &amp;ldquo;tactical&amp;rdquo; orders. For more information on these types of complex orders, take a look at &lt;a href=&#34;https://www.bfmtv.com/practice-finances-perso/bourse-which-are-the-order-tactics-1494268.html&#34;&gt;this article&lt;/a&gt; (in French).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Sitemap</title>
+      <link>https://investastuces.com/misc/sitemap/</link>
+      <pubDate>Mon, 08 Apr 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://investastuces.com/misc/sitemap/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://investastuces.com&#34;&gt;Accueil / Homepage&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://investastuces.com/blog&#34;&gt;Blog&lt;/a&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Bourse
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://investastuces.com/blog/2019/primer-on-french-stock-market-orders&#34;&gt;A primer on French stock market orders&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://investastuces.com/blog/2019/les-ordres-de-bourse&#34;&gt;Les ordres de Bourse&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://investastuces.com/blog/2019/10-regles-dor-pour-debuter-en-bourse&#34;&gt;Mes 10 règles d’or pour débuter en Bourse&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Finance
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://investastuces.com/blog/2019/us-person-status-financial-restrictions-american-expats&#34;&gt;&amp;lsquo;US person&amp;rsquo; status: financial restrictions for American expatriates in France&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://investastuces.com/blog/2019/statut-us-persons-contraintes-pour-finances-personnelles&#34;&gt;Le statut « US persons »: des contraintes pour vos finances personnelles&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Immobilier
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://investastuces.com/blog/2019/taeg-precieux-outil-de-comparaison&#34;&gt;Le TAEG : le précieux outil de comparaison des offres de crédit&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://investastuces.com/blog/2019/renego-vs-rachat-credit&#34;&gt;Rachat vs renégociation vs ne rien faire: que choisir pour votre crédit immobilier ?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://investastuces.com/simulateurs&#34;&gt;Simulateurs / Simulators&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://investastuces.com/glossaire&#34;&gt;Glossaire / Glossary&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://investastuces.com/a-propos&#34;&gt;A propos / About&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://investastuces.com/contact&#34;&gt;Contact&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://investastuces.com/misc/mentions-legales&#34;&gt;Mentions l&amp;eacute;gales&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>&#39;US person&#39; status: financial restrictions for American expatriates in France</title>
@@ -140,45 +303,6 @@ Don’t celebrate too quickly! The bank may have simply not yet detected that yo
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.irs.gov/businesses/corporations/foreign-account-tax-compliance-act-fatca&#34;&gt;FATCA legislation&lt;/a&gt; on the IRS website&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Sitemap</title>
-      <link>https://investastuces.com/misc/sitemap/</link>
-      <pubDate>Fri, 29 Mar 2019 00:00:00 -0500</pubDate>
-      
-      <guid>https://investastuces.com/misc/sitemap/</guid>
-      <description>&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://investastuces.com&#34;&gt;Accueil / Homepage&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://investastuces.com/blog&#34;&gt;Blog&lt;/a&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Bourse
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://investastuces.com/blog/2019/les-ordres-de-bourse&#34;&gt;Les ordres de Bourse&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://investastuces.com/blog/2019/10-regles-dor-pour-debuter-en-bourse&#34;&gt;Mes 10 règles d’or pour débuter en Bourse&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Finance
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://investastuces.com/blog/2019/us-person-status-financial-restrictions-american-expats&#34;&gt;&amp;lsquo;US person&amp;rsquo; status: financial restrictions for American expatriates in France&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://investastuces.com/blog/2019/statut-us-persons-contraintes-pour-finances-personnelles&#34;&gt;Le statut « US persons »: des contraintes pour vos finances personnelles&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Immobilier
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://investastuces.com/blog/2019/taeg-precieux-outil-de-comparaison&#34;&gt;Le TAEG : le précieux outil de comparaison des offres de crédit&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://investastuces.com/blog/2019/renego-vs-rachat-credit&#34;&gt;Rachat vs renégociation vs ne rien faire: que choisir pour votre crédit immobilier ?&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://investastuces.com/simulateurs&#34;&gt;Simulateurs / Simulators&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://investastuces.com/glossaire&#34;&gt;Glossaire / Glossary&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://investastuces.com/a-propos&#34;&gt;A propos / About&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://investastuces.com/contact&#34;&gt;Contact&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://investastuces.com/misc/mentions-legales&#34;&gt;Mentions l&amp;eacute;gales&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -1598,9 +1722,31 @@ Bénéfices réalisés par des personnes physiques, des entreprises individuelle
 &lt;h2 id=&#34;c-a-name-c-a&#34;&gt;C &lt;a name=&#34;C&#34;&gt;&lt;/a&gt;&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;CAC 40 (Cotation Assistée en Continu)&lt;/strong&gt;&lt;br /&gt;
-Indice calculé à partir d&amp;rsquo;un échantillon de 40 valeurs cotées sur la Bourse de Paris Euronext et choisies en fonction de critères multiples (capitalisation, liquidité et diversification sectorielle).&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;CAC 40 (Cotation Assistée en Continu)&lt;/strong&gt;&lt;br /&gt;
+Indice calculé à partir d&amp;rsquo;un échantillon de 40 valeurs cotées sur la Bourse de Paris Euronext et choisies en fonction de critères multiples (capitalisation, liquidité et diversification sectorielle).&lt;/li&gt;
+&lt;/ul&gt;
 
+&lt;ul&gt;
+&lt;li&gt; &lt;b&gt;Carnet d’ordres (Bourse)&lt;/b&gt; &lt;a name=&#34;carnetdordres&#34;&gt;&lt;/a&gt; (&lt;img src=&#34;https://investastuces.com/img/usa.png&#34; alt=&#34;drawing&#34; style=&#34;width:16px;&#34;/&gt;: &lt;a href=&#34;https://investastuces.com/glossaire/#orderbook&#34;&gt;Order book&lt;/a&gt;)
+&lt;br&gt;
+Recueil sur lequel s’affichent tous les ordres d&#39;achat et de vente d’un titre (une action, par exemple). Le carnet d’ordres est divisé en deux grands blocs : 
+&lt;ul&gt;
+    &lt;li&gt; d’un côté les achats, où l’on trouve le prix que les investisseurs sont prêts à payer pour acquérir un titre ;  &lt;/li&gt;
+    &lt;li&gt; de l’autre, les ordres de vente, qui permettent de connaître le prix auquel d’autres investisseurs souhaitent céder ce titre.  &lt;/li&gt;
+    &lt;/ul&gt;
+Ces deux blocs sont eux-mêmes divisées en trois colonnes. Celles-ci apportent davantage d’informations sur la confrontation de l’offre et de la demande en précisant :  
+&lt;ul&gt;
+    &lt;li&gt;les 5 meilleures offres (vente) ;&lt;/li&gt;
+    &lt;li&gt; les 5 meilleures demandes (achat) ;&lt;/li&gt;
+    &lt;li&gt; les cours proposés ;&lt;/li&gt;
+    &lt;li&gt; le nombre de titres de chaque ordre ;&lt;/li&gt;
+    &lt;li&gt; le nombre d’ordres proposés à un prix donné.&lt;/li&gt;
+  &lt;/ul&gt;
+Le carnet d’ordres d’une action est accessible sur les différents sites spécialisés dans la Bourse.
+&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;ul&gt;
 &lt;li&gt;&lt;p&gt;&lt;strong&gt;Caution&lt;/strong&gt;&lt;br /&gt;
 Engagement par lequel un tiers accepte de garantir le paiement d&amp;rsquo;une dette d&amp;rsquo;une autre personne.&lt;/p&gt;&lt;/li&gt;
 
@@ -1617,6 +1763,19 @@ S&amp;rsquo;applique sur les revenus et les plus-values qui y sont assujettis, n
 &lt;li&gt;&lt;p&gt;&lt;strong&gt;Deduction&lt;/strong&gt; &lt;a name=&#34;deduction&#34;&gt;&lt;/a&gt; (&lt;img src=&#34;https://investastuces.com/img/fr.png&#34; alt=&#34;drawing&#34; style=&#34;width:16px;&#34;/&gt;: &lt;a href=&#34;#abattement&#34;&gt;Abattement&lt;/a&gt;)&lt;br /&gt;
 Any item or expenditure subtracted from gross income to reduce the amount of income subject to income tax. It is also referred to as an &amp;ldquo;allowable deduction.&amp;rdquo;&lt;/p&gt;&lt;/li&gt;
 
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Dépenses contraintes&lt;/strong&gt;&lt;br /&gt;
+Les dépenses contraintes, appelées aussi dépenses fixes ou dépenses pré-engagées, sont définies par l’INSEE comme étant &amp;ldquo;l’ensemble des dépenses des ménages réalisées dans le cadre d&amp;rsquo;un contrat difficilement renégociable à court terme.&amp;rdquo; Elles sont &lt;a href=&#34;https://www.insee.fr/fr/metadonnees/definition/c1358&#34;&gt;définies&lt;/a&gt; comme suit :&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;dépenses liées au logement (y compris, dans le cas de la comptabilité nationale, les loyers imputés), ainsi que celles relatives à l&amp;rsquo;eau, au gaz, à l&amp;rsquo;électricité et aux autres combustibles utilisés dans les habitations ;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;services de télécommunications ;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;frais de cantine ;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;services de télévision (redevance télévisuelle, abonnements à des chaînes payantes);&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;assurances (hors assurance-vie) ;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;services financiers (y compris, dans le cas de la comptabilité nationale, les services d&amp;rsquo;intermédiation financière indirectement mesurés).&lt;br /&gt;
+&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
 &lt;li&gt;&lt;p&gt;&lt;strong&gt;Dépôt de garantie&lt;/strong&gt;&lt;br /&gt;
 Somme versée en garantie par un locataire, appelée aussi caution par abus de langage. Il doit être restitué dans les deux mois suivant la restitution des clés par le locataire.&lt;/p&gt;&lt;/li&gt;
 
@@ -1631,6 +1790,11 @@ A down payment is a type of payment made in cash during the onset of the purchas
 &lt;/ul&gt;
 
 &lt;h2 id=&#34;e-a-name-e-a&#34;&gt;E &lt;a name=&#34;E&#34;&gt;&lt;/a&gt;&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Épargne de précaution&lt;/strong&gt;&lt;br /&gt;
+Réserve d’argent immédiatement disponible en vue de pouvoir faire face aux dépenses imprévues sans toucher à l’épargne placée à long terme et sans contracter un crédit à la consommation ou personnel. Généralement, il est recommandé de conserver entre 3 et 6 mois de salaire d’épargne de précaution.&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;h2 id=&#34;f-a-name-f-a&#34;&gt;F &lt;a name=&#34;F&#34;&gt;&lt;/a&gt;&lt;/h2&gt;
 
@@ -1688,6 +1852,13 @@ Clause permettant l’augmentation du loyer chaque année à la date anniversair
 
 &lt;li&gt;&lt;p&gt;&lt;strong&gt;Intérêts intercalaires&lt;/strong&gt;&lt;br /&gt;
 Intérêts calculés entre le déblocage des fonds par le créancier et le début du remboursement effectif du prêt.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;ISIN (International Securities Identification Number)&lt;/strong&gt; &lt;a name=&#34;ISIN&#34;&gt;&lt;/a&gt;&lt;br /&gt;
+&lt;img src=&#34;https://investastuces.com/img/fr.png&#34; alt=&#34;drawing&#34; style=&#34;width:16px;&#34;/&gt; L’ISIN ou code ISIN est un identifiant unique servant à désigner des valeurs mobilières (comme les titres d’une entreprise cotée en Bourse). Ce code est composé de douze caractères alphanumériques dont les deux premières lettres identifient le pays dans lequel la valeur a été émise (FR pour les titres français, US pour les titres des Etats-Unis, CH pour les titres suisses, DE pour les titres allemands, etc.). Ce code est indispensable pour la passation d’un ordre de Bourse. Une simple requête dans un moteur de recherche internet permet de trouver le code ISIN d’une entreprise.
+Par exemple, le code ISIN de Peugeot SA est le FR0000121501.
+&lt;br&gt;
+&lt;img src=&#34;https://investastuces.com/img/usa.png&#34; alt=&#34;drawing&#34; style=&#34;width:16px;&#34;/&gt;  The ISIN or ISIN code is a 12-character alphanumeric code that is the uniform identification of a security. The first two letters identify the country in which the security was issued (FR for French securities, US for US securities, CH for Swiss securities, DE for German securities, etc.). This code is essential for the execution of a stock market order. The ISIN code of a company can be found by a simple query in an internet search engine.
+For example, the Apple ISIN Code is US0378331005.&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&#34;j-a-name-j-a&#34;&gt;J &lt;a name=&#34;J&#34;&gt;&lt;/a&gt;&lt;/h2&gt;
@@ -1737,6 +1908,9 @@ Document réglementé par le droit bancaire et qui précise les obligations du p
 
 &lt;li&gt;&lt;p&gt;&lt;strong&gt;OPCVM (Organisme de Placement Collectif en Valeurs Mobilières)&lt;/strong&gt;  &lt;a name=&#34;OPCVM&#34;&gt;&lt;/a&gt;&lt;br /&gt;
 Structures qui permettent la gestion collective de fonds. Les fonds qui sont à leur disposition sont investis dans des valeurs mobilières. Ces valeurs mobilières donnent le même droit que des actions à son possesseur, c’est à dire qu’ils donnent une part du capital de la société émettrice.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Order book (trading)&lt;/strong&gt; &lt;a name=&#34;orderbook&#34;&gt;&lt;/a&gt; (&lt;img src=&#34;https://investastuces.com/img/fr.png&#34; alt=&#34;drawing&#34; style=&#34;width:16px;&#34;/&gt;: &lt;a href=&#34;#carnetdordres&#34;&gt;Carnet d&amp;rsquo;ordres&lt;/a&gt;)&lt;br /&gt;
+An order book is an electronic list of buy and sell orders for a specific security or financial instrument organized by price level. An order book lists the number of shares being bid or offered at each price point, or market depth. Order books are used by almost every exchange for various assets including stocks, bonds, currencies, &amp;hellip; The order book of a share is accessible on websites specialized in the stock market.&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;&lt;strong&gt;Ordre de Bourse&lt;/strong&gt; &lt;a name=&#34;ordredebourse&#34;&gt;&lt;/a&gt;&lt;br /&gt;
 Les ordres de bourse sont des instructions communiquées par un investisseur ou par un intermédiaire financier (comme un courtier) qui, en fonction des informations reçues et de la situation du compte du client, procède à l’achat, ou à la vente d’un actif sur une place boursière. Un ordre de bourse doit comporter un certain nombre d&amp;rsquo;informations nécessaires et obligatoires à sa bonne exécution (le sens de l&amp;rsquo;opération, le nom de la valeur ou le code ISIN de la valeur, la quantité de titres&amp;hellip;).  Vous trouverez les principaux types d’ordre de Bourse dans &lt;a href=&#34;https://investastuces.com/blog/2019/les-ordres-de-bourse&#34;&gt;cet article&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
@@ -1794,6 +1968,12 @@ Revenu dont l’on jouit sa vie entière. Ainsi, sans autre qualification, un us
 
 &lt;li&gt;&lt;p&gt;&lt;strong&gt;Résidence principale&lt;/strong&gt;&lt;br /&gt;
 Logement où le contribuable réside habituellement et effectivement avec sa famille et où se situe le centre de ses intérêts professionnels et matériels.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Retraite par capitalisation&lt;/strong&gt;&lt;br /&gt;
+Système de retraite qui fonctionne par l&amp;rsquo;accumulation d&amp;rsquo;un stock de capital par les travailleurs qui servira à financer les pensions de ces mêmes travailleurs devenus inactifs. La retraite de chaque travailleur est donc financé par l’argent qu’il aura pu accumuler tout au long de sa vie active.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Retraite par répartition&lt;/strong&gt;&lt;br /&gt;
+Système de retraite où se sont les actifs qui payent par leurs cotisations les pensions des retraités actuels. L’argent prélevé finance donc directement et immédiatement les pensions des retraités.&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;&lt;strong&gt;Revenus fonciers&lt;/strong&gt;&lt;br /&gt;
 Revenus provenant des locations immobilières de locaux nus.&lt;/p&gt;&lt;/li&gt;
