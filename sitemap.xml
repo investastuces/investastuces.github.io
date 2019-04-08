@@ -3,194 +3,188 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://investastuces.com/blog/2019/primer-on-french-stock-market-orders/</loc>
+    <loc>/blog/2019/primer-on-french-stock-market-orders/</loc>
     <lastmod>2019-04-08T17:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://investastuces.com/misc/sitemap/</loc>
+    <loc>/misc/sitemap/</loc>
     <lastmod>2019-04-08T00:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://investastuces.com/blog/2019/us-person-status-financial-restrictions-american-expats/</loc>
+    <loc>/blog/2019/us-person-status-financial-restrictions-american-expats/</loc>
     <lastmod>2019-03-29T19:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://investastuces.com/blog/2019/renego-vs-rachat-credit/</loc>
+    <loc>/blog/2019/renego-vs-rachat-credit/</loc>
     <lastmod>2019-03-25T15:58:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://investastuces.com/blog/2019/taeg-precieux-outil-de-comparaison/</loc>
+    <loc>/blog/2019/taeg-precieux-outil-de-comparaison/</loc>
     <lastmod>2019-03-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://investastuces.com/blog/2019/les-ordres-de-bourse/</loc>
+    <loc>/blog/2019/les-ordres-de-bourse/</loc>
     <lastmod>2019-03-13T16:01:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://investastuces.com/blog/2019/statut-us-persons-contraintes-pour-finances-personnelles/</loc>
+    <loc>/blog/2019/statut-us-persons-contraintes-pour-finances-personnelles/</loc>
     <lastmod>2019-03-12T23:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://investastuces.com/blog/2019/10-regles-dor-pour-debuter-en-bourse/</loc>
+    <loc>/blog/2019/10-regles-dor-pour-debuter-en-bourse/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://investastuces.com/misc/mentions-legales/</loc>
+    <loc>/misc/mentions-legales/</loc>
     <lastmod>2019-02-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://investastuces.com/a-propos/</loc>
+    <loc>/a-propos/</loc>
   </url>
   
   <url>
-    <loc>https://investastuces.com/tags/actions/</loc>
+    <loc>/tags/actions/</loc>
     <lastmod>2019-03-13T16:01:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://investastuces.com/blog/</loc>
+    <loc>/blog/</loc>
     <lastmod>2019-04-08T17:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://investastuces.com/tags/bourse/</loc>
-    <lastmod>2019-03-13T16:01:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://investastuces.com/categories/bourse-~-stocks/</loc>
+    <loc>/tags/bourse/</loc>
     <lastmod>2019-04-08T17:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://investastuces.com/categories/</loc>
+    <loc>/categories/bourse-~-stocks/</loc>
     <lastmod>2019-04-08T17:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://investastuces.com/contact/</loc>
+    <loc>/categories/</loc>
+    <lastmod>2019-04-08T17:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://investastuces.com/tags/cr%C3%A9dit/</loc>
+    <loc>/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/cr%C3%A9dit/</loc>
     <lastmod>2019-03-25T15:58:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://investastuces.com/tags/english/</loc>
+    <loc>/tags/english/</loc>
     <lastmod>2019-04-08T17:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://investastuces.com/tags/expat/</loc>
-    <lastmod>2019-03-29T19:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://investastuces.com/tags/fatca/</loc>
-    <lastmod>2019-03-29T19:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://investastuces.com/categories/finance-perso-~-personal-finance/</loc>
-    <lastmod>2019-03-29T19:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://investastuces.com/tags/france/</loc>
+    <loc>/tags/expat/</loc>
     <lastmod>2019-04-08T17:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://investastuces.com/tags/fran%C3%A7ais/</loc>
+    <loc>/tags/fatca/</loc>
+    <lastmod>2019-03-29T19:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/finance-perso-~-personal-finance/</loc>
+    <lastmod>2019-03-29T19:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/fran%C3%A7ais/</loc>
     <lastmod>2019-03-25T15:58:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://investastuces.com/glossaire/</loc>
+    <loc>/glossaire/</loc>
   </url>
   
   <url>
-    <loc>https://investastuces.com/categories/immobilier-~-real-estate/</loc>
+    <loc>/categories/immobilier-~-real-estate/</loc>
     <lastmod>2019-03-25T15:58:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://investastuces.com/</loc>
+    <loc>/</loc>
     <lastmod>2019-04-08T17:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://investastuces.com/misc/</loc>
+    <loc>/misc/</loc>
     <lastmod>2019-04-08T00:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://investastuces.com/tags/pr%C3%AAt/</loc>
+    <loc>/tags/pr%C3%AAt/</loc>
     <lastmod>2019-03-25T15:58:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://investastuces.com/tags/regles-dor/</loc>
+    <loc>/tags/regles-dor/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://investastuces.com/tags/simulateurs/</loc>
+    <loc>/tags/simulateurs/</loc>
     <lastmod>2019-03-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://investastuces.com/simulateurs/</loc>
+    <loc>/simulateurs/</loc>
   </url>
   
   <url>
-    <loc>https://investastuces.com/tags/stocks/</loc>
+    <loc>/tags/stocks/</loc>
     <lastmod>2019-04-08T17:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://investastuces.com/tags/taeg/</loc>
+    <loc>/tags/taeg/</loc>
     <lastmod>2019-03-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://investastuces.com/tags/</loc>
+    <loc>/tags/</loc>
     <lastmod>2019-03-13T16:01:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://investastuces.com/tags/usa/</loc>
+    <loc>/tags/usa/</loc>
     <lastmod>2019-03-29T19:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>

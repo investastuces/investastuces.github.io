@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Taeg on Invest Astuces</title>
-    <link>https://investastuces.com/tags/taeg/</link>
+    <link>/tags/taeg/</link>
     <description>Recent content in Taeg on Invest Astuces</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Thu, 21 Mar 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://investastuces.com/tags/taeg/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/taeg/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Le TAEG : le précieux outil de comparaison des offres de crédit</title>
-      <link>https://investastuces.com/blog/2019/taeg-precieux-outil-de-comparaison/</link>
+      <link>/blog/2019/taeg-precieux-outil-de-comparaison/</link>
       <pubDate>Thu, 21 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://investastuces.com/blog/2019/taeg-precieux-outil-de-comparaison/</guid>
+      <guid>/blog/2019/taeg-precieux-outil-de-comparaison/</guid>
       <description>Ca y est, vous êtes locataires et vous voulez habiter dans votre maison, ou bien vous voulez effectuer votre premier investissement locatif. Vous avez même trouvé le bien de vos rêves, mais il vous reste une étape essentielle à franchir: celle du crédit immobilier. C’est là que le début des ennuis commencent&amp;hellip;
 Vous êtes allé voir plusieurs banques ou courtiers qui vous proposent chacun une formule différente, avec des taux, des frais, voire des coûts d’assurance différents.</description>
     </item>
