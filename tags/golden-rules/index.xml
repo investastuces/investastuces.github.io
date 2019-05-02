@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Stocks on Invest Astuces</title>
-    <link>https://investastuces.com/tags/stocks/</link>
-    <description>Recent content in Stocks on Invest Astuces</description>
+    <title>Golden Rules on Invest Astuces</title>
+    <link>https://investastuces.com/tags/golden-rules/</link>
+    <description>Recent content in Golden Rules on Invest Astuces</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Wed, 01 May 2019 17:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://investastuces.com/tags/stocks/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://investastuces.com/tags/golden-rules/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -19,16 +19,6 @@
       <description>Note: This article discusses the French stock market and is therefore primarily intended for English speakers living in France.
 The stock market can be a fascinating but scary place. Although it rings of opportunity and significant potential profits for some, the stock exchange can represent a risky investment, whether for financial experts or those with conservative investment strategies.
 A vivid example of this risk was the disastrous crash of Eurotunnel stock prices in the late 1990s.</description>
-    </item>
-    
-    <item>
-      <title>A primer on French stock market orders</title>
-      <link>https://investastuces.com/blog/2019/primer-on-french-stock-market-orders/</link>
-      <pubDate>Mon, 08 Apr 2019 17:00:00 +0000</pubDate>
-      
-      <guid>https://investastuces.com/blog/2019/primer-on-french-stock-market-orders/</guid>
-      <description>Note: This article discusses the French stock market and is therefore primarily intended for English speakers living in France.
-When you invest in the stock market in France, there are a variety of way to purchase or sell a security on the stock exchange depending on your desired price point as well as your buying or selling strategy. Placing stock market orders usually incurs transaction costs – so if you choose an order that is not adapted to your needs, it can quickly turn into an expensive mistake!</description>
     </item>
     
   </channel>
